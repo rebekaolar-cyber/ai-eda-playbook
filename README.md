@@ -18,3 +18,12 @@ I used Claude Code for all code scaffolding and first-draft explanations. My rol
 - Python 3, pandas, matplotlib
 - Claude Code (Anthropic) for code generation and brainstorming
 - Git + GitHub for version control and portfolio presentation
+
+## Tech Stack
+- Python · pandas · Matplotlib · Claude Code (Anthropic)
+
+## Setup
+```bash
+pip install -r requirements.txt
+jupyter notebook playbook.ipynb
+```
