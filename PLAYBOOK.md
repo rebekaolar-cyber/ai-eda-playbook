@@ -89,3 +89,40 @@ No years exceeded z-score > 2 when measured against the full-series mean. Caveat
 **Q5 – YoY volatility:**
 Growth was most volatile in the 1960s–70s (rapid expansion phase). Volatility stabilised after ~1983. The 10-year rolling standard deviation of YoY % change shows a clear downward trend from ~15% in the 1970s to ~5% by the 1990s. Chart: data/q5_yoy.png.
 
+
+---
+
+## E. Reflection
+
+### Applies to: Both datasets (Dutch Retail Sales + Amsterdam AirBnB)
+
+---
+
+### Mostly automated by Claude Code
+- All EDA boilerplate (shape, dtypes, missing values, summary stats, duplicate checks)
+- Plot scaffolding (bar charts, scatter plots, time series, stacked charts)
+- Stakeholder question brainstorming — generated 8–10 candidates per dataset; I selected the best 5
+- First-draft plain-language explanations per question
+- Notebook cell structure and markdown formatting
+
+---
+
+### Where I intervened
+- **Dataset 1:** Detected that `time` was stored as decimal year (e.g. 1960.333 = April 1960) — Claude did not flag this. Added manual conversion logic and month clipping.
+- **Dataset 1:** Corrected the Q1 markdown cell which referenced a 2008 crisis not present in the data (dataset ends 1995).
+- **Dataset 1:** Added the z-score caveat (non-stationarity issue) — Claude's draft omitted this statistical limitation.
+- **Dataset 2:** Selected and reworded stakeholder questions to reflect Amsterdam housing policy framing, not generic AirBnB metrics.
+- **Both:** Verified all aggregations matched expected business logic before accepting outputs.
+
+---
+
+### Limitations and edge cases
+- Claude Code misinterpreted the decimal year timestamp format — a domain-specific encoding that required human recognition.
+- On Dataset 2, Q4 and Q5 answer cells contain placeholders ("Fill after running") — Claude generated correct code but drafted generic explanations before seeing the output numbers. These should be updated after each run with the actual values.
+- The PLAYBOOK template works well for tabular datasets with clear groupby dimensions. It would need extension for unstructured data, multi-table joins, or ML tasks.
+
+---
+
+### Key learning
+The playbook's value is not in removing human judgment — it is in structuring *where* human judgment is applied. Claude handles the mechanical scaffolding reliably; the analyst's job shifts to framing, verification, and interpretation. This is faster and more rigorous than doing either alone.
+
