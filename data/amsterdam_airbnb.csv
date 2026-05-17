@@ -1,0 +1,1501 @@
+id,name,neighbourhood,neighbourhood_group,room_type,price,minimum_nights,number_of_reviews,review_scores_rating,availability_365,calculated_host_listings_count
+1,Listing 1,De Pijp,De Pijp area,Entire home/apt,127.77,1,52,4.39,346,1
+2,Listing 2,Centrum,Centrum area,Entire home/apt,194.04,1,119,4.34,258,7
+3,Listing 3,Oud-West,Oud-West area,Entire home/apt,117.89,7,81,4.01,357,3
+4,Listing 4,Oud-West,Oud-West area,Hotel room,139.72,1,172,4.07,52,6
+5,Listing 5,Oost,Oost area,Private room,66.37,7,274,3.62,63,5
+6,Listing 6,Slotervaart,Slotervaart area,Private room,25,2,185,4.56,295,1
+7,Listing 7,Oud-West,Oud-West area,Private room,101.66,2,51,4.18,194,6
+8,Listing 8,Jordaan,Jordaan area,Entire home/apt,156.35,2,107,4.55,343,2
+9,Listing 9,Slotervaart,Slotervaart area,Private room,27.86,2,236,4.98,194,4
+10,Listing 10,Oost,Oost area,Private room,51.81,1,28,4.71,117,7
+11,Listing 11,Noord,Noord area,Entire home/apt,117.12,14,161,4.09,108,8
+12,Listing 12,Jordaan,Jordaan area,Entire home/apt,146.56,2,126,4.62,287,7
+13,Listing 13,Slotervaart,Slotervaart area,Entire home/apt,98.28,1,260,4.63,252,2
+14,Listing 14,Jordaan,Jordaan area,Private room,148.04,1,216,4.08,305,8
+15,Listing 15,Bos en Lommer,Bos en Lommer area,Entire home/apt,44.86,2,58,4.65,349,6
+16,Listing 16,De Pijp,De Pijp area,Entire home/apt,114.31,1,80,4.93,232,5
+17,Listing 17,Bos en Lommer,Bos en Lommer area,Private room,35.52,2,152,3.73,327,3
+18,Listing 18,Bos en Lommer,Bos en Lommer area,Hotel room,71.54,3,271,4.23,0,2
+19,Listing 19,Oost,Oost area,Private room,63.42,1,29,3.63,123,8
+20,Listing 20,De Pijp,De Pijp area,Hotel room,89.06,1,272,4.49,64,3
+21,Listing 21,Noord,Noord area,Entire home/apt,54.51,2,276,4.57,353,7
+22,Listing 22,Oost,Oost area,Entire home/apt,77.94,1,264,3.87,231,2
+23,Listing 23,Oost,Oost area,Entire home/apt,84.86,1,3,3.84,36,1
+24,Listing 24,Oost,Oost area,Entire home/apt,101.14,14,121,3.82,142,3
+25,Listing 25,Slotervaart,Slotervaart area,Private room,43.5,1,208,3.65,97,7
+26,Listing 26,Oost,Oost area,Entire home/apt,132.61,1,239,3.59,27,6
+27,Listing 27,De Pijp,De Pijp area,Entire home/apt,138.01,2,216,4.19,93,2
+28,Listing 28,Watergraafsmeer,Watergraafsmeer area,Private room,70.3,1,50,4.95,25,4
+29,Listing 29,Jordaan,Jordaan area,Entire home/apt,120.28,7,30,3.5,84,7
+30,Listing 30,Noord,Noord area,Shared room,33.17,7,232,4.54,146,8
+31,Listing 31,Jordaan,Jordaan area,Entire home/apt,161.4,3,277,3.59,31,8
+32,Listing 32,Bos en Lommer,Bos en Lommer area,Shared room,33.8,1,271,4.94,80,2
+33,Listing 33,Jordaan,Jordaan area,Entire home/apt,196.22,2,206,4.37,61,1
+34,Listing 34,Slotervaart,Slotervaart area,Entire home/apt,101.48,2,267,3.81,161,6
+35,Listing 35,Oud-West,Oud-West area,Entire home/apt,144.6,1,234,3.51,161,2
+36,Listing 36,De Pijp,De Pijp area,Entire home/apt,151.11,1,259,4.9,135,2
+37,Listing 37,Oud-West,Oud-West area,Entire home/apt,145.75,1,154,4.5,313,5
+38,Listing 38,De Pijp,De Pijp area,Shared room,70.7,1,68,4.83,135,3
+39,Listing 39,Noord,Noord area,Entire home/apt,99.49,14,135,3.88,258,1
+40,Listing 40,De Pijp,De Pijp area,Private room,82.77,1,141,4.0,22,3
+41,Listing 41,Noord,Noord area,Entire home/apt,65.79,1,4,4.92,57,3
+42,Listing 42,Bos en Lommer,Bos en Lommer area,Entire home/apt,101.18,1,189,4.14,298,1
+43,Listing 43,Noord,Noord area,Entire home/apt,143.87,2,20,4.52,183,2
+44,Listing 44,Oost,Oost area,Private room,33.15,1,208,4.89,317,4
+45,Listing 45,Jordaan,Jordaan area,Hotel room,143.39,3,12,4.67,91,7
+46,Listing 46,Oud-West,Oud-West area,Entire home/apt,86.67,1,55,4.79,195,4
+47,Listing 47,Oud-West,Oud-West area,Private room,45.96,1,116,4.49,114,7
+48,Listing 48,Oost,Oost area,Entire home/apt,114.21,3,35,4.46,142,7
+49,Listing 49,Bos en Lommer,Bos en Lommer area,Entire home/apt,130.33,2,133,3.56,91,7
+50,Listing 50,Oost,Oost area,Private room,62.07,1,160,4.08,223,4
+51,Listing 51,Noord,Noord area,Entire home/apt,72.7,2,275,4.05,351,2
+52,Listing 52,Oost,Oost area,Private room,64.47,2,63,4.5,153,6
+53,Listing 53,Westerpark,Westerpark area,Private room,40.2,1,194,4.42,346,5
+54,Listing 54,Westerpark,Westerpark area,Entire home/apt,100.62,2,0,,155,4
+55,Listing 55,Westerpark,Westerpark area,Private room,38.68,2,226,4.27,226,3
+56,Listing 56,De Pijp,De Pijp area,Entire home/apt,119.04,2,171,4.51,47,4
+57,Listing 57,Oud-West,Oud-West area,Entire home/apt,180.08,7,37,4.83,233,4
+58,Listing 58,Westerpark,Westerpark area,Entire home/apt,121.46,1,124,4.84,75,2
+59,Listing 59,Westerpark,Westerpark area,Entire home/apt,115.29,2,237,4.88,25,2
+60,Listing 60,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,70.91,3,237,4.93,341,8
+61,Listing 61,Slotervaart,Slotervaart area,Private room,58.93,1,280,4.62,228,8
+62,Listing 62,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,86.76,2,126,4.65,326,8
+63,Listing 63,Oud-West,Oud-West area,Entire home/apt,139.5,3,139,4.84,171,2
+64,Listing 64,Jordaan,Jordaan area,Entire home/apt,167.68,1,196,4.56,355,2
+65,Listing 65,Westerpark,Westerpark area,Entire home/apt,85.0,7,105,4.86,215,1
+66,Listing 66,Slotervaart,Slotervaart area,Entire home/apt,79.51,2,3,4.63,180,7
+67,Listing 67,Bos en Lommer,Bos en Lommer area,Private room,25,2,112,3.91,249,8
+68,Listing 68,Centrum,Centrum area,Entire home/apt,172.23,14,207,4.88,84,1
+69,Listing 69,Westerpark,Westerpark area,Private room,48.15,14,219,3.77,69,5
+70,Listing 70,Westerpark,Westerpark area,Entire home/apt,97.85,3,232,4.64,167,7
+71,Listing 71,Noord,Noord area,Private room,55.01,1,41,4.62,240,1
+72,Listing 72,Oost,Oost area,Entire home/apt,96.73,1,35,4.63,333,4
+73,Listing 73,Oud-West,Oud-West area,Private room,51.82,1,242,4.35,342,4
+74,Listing 74,Watergraafsmeer,Watergraafsmeer area,Private room,39.8,1,188,4.67,85,3
+75,Listing 75,Noord,Noord area,Entire home/apt,112.07,2,192,3.61,203,4
+76,Listing 76,De Pijp,De Pijp area,Private room,67.78,1,154,4.69,350,1
+77,Listing 77,Oost,Oost area,Entire home/apt,106.01,7,174,4.73,6,2
+78,Listing 78,Westerpark,Westerpark area,Hotel room,77.58,1,235,4.15,362,5
+79,Listing 79,Slotervaart,Slotervaart area,Private room,25,2,223,3.98,303,4
+80,Listing 80,De Pijp,De Pijp area,Entire home/apt,124.54,14,230,4.35,124,7
+81,Listing 81,Oost,Oost area,Entire home/apt,117.51,2,108,4.01,181,5
+82,Listing 82,Bos en Lommer,Bos en Lommer area,Entire home/apt,79.79,2,97,4.58,43,8
+83,Listing 83,Bos en Lommer,Bos en Lommer area,Private room,34.49,1,251,3.64,229,4
+84,Listing 84,Westerpark,Westerpark area,Private room,25.66,3,156,4.21,339,6
+85,Listing 85,Westerpark,Westerpark area,Hotel room,66.3,2,232,3.88,138,2
+86,Listing 86,Oud-West,Oud-West area,Entire home/apt,119.2,1,274,3.79,353,8
+87,Listing 87,Noord,Noord area,Private room,71.63,2,144,3.94,51,6
+88,Listing 88,Jordaan,Jordaan area,Entire home/apt,156.43,2,273,3.57,64,1
+89,Listing 89,Bos en Lommer,Bos en Lommer area,Entire home/apt,116.77,1,251,4.36,52,8
+90,Listing 90,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,90.19,2,94,4.91,26,8
+91,Listing 91,De Pijp,De Pijp area,Private room,58.63,1,27,4.72,77,5
+92,Listing 92,De Pijp,De Pijp area,Hotel room,108.58,7,60,4.41,285,4
+93,Listing 93,Bos en Lommer,Bos en Lommer area,Entire home/apt,104.1,1,219,4.41,156,2
+94,Listing 94,Oud-West,Oud-West area,Private room,53.36,1,135,3.74,338,3
+95,Listing 95,Bos en Lommer,Bos en Lommer area,Entire home/apt,111.88,1,240,3.85,149,5
+96,Listing 96,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,100.37,2,119,4.14,135,4
+97,Listing 97,Jordaan,Jordaan area,Shared room,51.57,2,84,4.16,157,8
+98,Listing 98,Noord,Noord area,Private room,40.68,14,139,4.16,256,1
+99,Listing 99,Westerpark,Westerpark area,Private room,48.86,1,117,5.0,345,5
+100,Listing 100,Slotervaart,Slotervaart area,Entire home/apt,82.22,14,89,4.87,240,3
+101,Listing 101,Slotervaart,Slotervaart area,Entire home/apt,105.71,7,240,4.0,178,2
+102,Listing 102,Jordaan,Jordaan area,Entire home/apt,111.51,7,253,4.72,147,1
+103,Listing 103,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,99.85,1,206,4.49,263,8
+104,Listing 104,Westerpark,Westerpark area,Entire home/apt,114.93,14,265,4.44,185,1
+105,Listing 105,Oud-West,Oud-West area,Entire home/apt,136.21,1,248,4.96,62,4
+106,Listing 106,Jordaan,Jordaan area,Entire home/apt,172.09,7,7,3.64,282,2
+107,Listing 107,Watergraafsmeer,Watergraafsmeer area,Shared room,25,2,149,4.12,260,8
+108,Listing 108,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,90.74,2,74,4.88,196,3
+109,Listing 109,De Pijp,De Pijp area,Entire home/apt,135.15,1,259,3.92,136,5
+110,Listing 110,Slotervaart,Slotervaart area,Private room,25,14,250,4.31,76,6
+111,Listing 111,Oost,Oost area,Private room,33.77,2,164,4.36,96,4
+112,Listing 112,Westerpark,Westerpark area,Entire home/apt,99.06,7,242,4.08,361,3
+113,Listing 113,Watergraafsmeer,Watergraafsmeer area,Hotel room,116.39,14,169,3.65,51,8
+114,Listing 114,Centrum,Centrum area,Private room,126.96,1,209,3.61,335,5
+115,Listing 115,Oost,Oost area,Private room,48.46,7,168,4.93,345,8
+116,Listing 116,Bos en Lommer,Bos en Lommer area,Entire home/apt,94.91,2,35,5.0,120,2
+117,Listing 117,Westerpark,Westerpark area,Hotel room,86.03,1,51,4.54,227,1
+118,Listing 118,Centrum,Centrum area,Entire home/apt,148.86,3,28,4.06,150,3
+119,Listing 119,Oud-West,Oud-West area,Entire home/apt,92.53,1,87,4.41,89,7
+120,Listing 120,Slotervaart,Slotervaart area,Private room,28.22,1,254,3.85,298,5
+121,Listing 121,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,136.08,1,147,3.61,346,6
+122,Listing 122,Slotervaart,Slotervaart area,Entire home/apt,87.13,2,217,4.19,353,5
+123,Listing 123,Oud-West,Oud-West area,Hotel room,105.74,3,195,4.36,292,5
+124,Listing 124,Centrum,Centrum area,Hotel room,136.43,1,202,4.35,140,1
+125,Listing 125,Slotervaart,Slotervaart area,Private room,63.98,3,117,3.83,310,4
+126,Listing 126,Slotervaart,Slotervaart area,Entire home/apt,47.52,1,70,4.86,321,1
+127,Listing 127,Noord,Noord area,Private room,66.14,2,67,3.99,46,7
+128,Listing 128,Jordaan,Jordaan area,Entire home/apt,163.97,2,276,4.75,187,5
+129,Listing 129,Watergraafsmeer,Watergraafsmeer area,Hotel room,68.69,1,58,3.71,239,4
+130,Listing 130,Westerpark,Westerpark area,Hotel room,122.82,7,187,3.52,46,2
+131,Listing 131,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,99.9,3,195,3.66,326,4
+132,Listing 132,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,84.4,2,167,4.47,312,8
+133,Listing 133,Noord,Noord area,Private room,52.03,14,19,3.67,155,4
+134,Listing 134,Bos en Lommer,Bos en Lommer area,Entire home/apt,94.08,7,232,4.38,189,3
+135,Listing 135,Westerpark,Westerpark area,Private room,66.38,3,143,3.83,16,8
+136,Listing 136,Oud-West,Oud-West area,Private room,38.58,3,50,4.32,351,6
+137,Listing 137,Centrum,Centrum area,Entire home/apt,183.77,2,232,4.46,46,1
+138,Listing 138,Centrum,Centrum area,Private room,99.49,2,124,3.6,64,4
+139,Listing 139,Slotervaart,Slotervaart area,Entire home/apt,97.2,1,75,3.92,305,3
+140,Listing 140,Jordaan,Jordaan area,Entire home/apt,146.96,1,89,3.7,56,6
+141,Listing 141,Oud-West,Oud-West area,Private room,78.13,1,64,4.62,215,8
+142,Listing 142,Watergraafsmeer,Watergraafsmeer area,Private room,51.55,1,262,4.18,303,4
+143,Listing 143,Slotervaart,Slotervaart area,Entire home/apt,93.33,14,266,4.47,154,1
+144,Listing 144,Centrum,Centrum area,Hotel room,104.7,1,205,4.24,218,8
+145,Listing 145,De Pijp,De Pijp area,Private room,60.04,3,64,4.07,140,5
+146,Listing 146,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,110.19,1,220,4.78,50,4
+147,Listing 147,Westerpark,Westerpark area,Entire home/apt,107.45,7,232,4.59,204,6
+148,Listing 148,Westerpark,Westerpark area,Entire home/apt,123.03,1,130,4.53,191,8
+149,Listing 149,De Pijp,De Pijp area,Entire home/apt,148.28,1,190,4.38,66,6
+150,Listing 150,De Pijp,De Pijp area,Entire home/apt,140.87,2,216,4.4,26,6
+151,Listing 151,De Pijp,De Pijp area,Private room,71.78,3,114,4.77,55,6
+152,Listing 152,De Pijp,De Pijp area,Private room,93.45,1,115,4.41,219,5
+153,Listing 153,Centrum,Centrum area,Entire home/apt,174.96,1,173,3.77,179,3
+154,Listing 154,Slotervaart,Slotervaart area,Private room,26.06,1,35,3.64,72,4
+155,Listing 155,Westerpark,Westerpark area,Entire home/apt,94.61,1,166,4.83,290,3
+156,Listing 156,Jordaan,Jordaan area,Private room,96.18,1,25,3.91,345,7
+157,Listing 157,Watergraafsmeer,Watergraafsmeer area,Private room,38.04,3,262,4.14,58,5
+158,Listing 158,Slotervaart,Slotervaart area,Entire home/apt,92.16,2,157,4.09,23,1
+159,Listing 159,Centrum,Centrum area,Entire home/apt,212.16,3,130,3.68,148,8
+160,Listing 160,Westerpark,Westerpark area,Entire home/apt,93.5,2,194,4.25,272,6
+161,Listing 161,De Pijp,De Pijp area,Entire home/apt,128.93,3,235,4.36,39,7
+162,Listing 162,Westerpark,Westerpark area,Entire home/apt,83.61,3,207,3.76,10,8
+163,Listing 163,Oost,Oost area,Entire home/apt,118.35,1,205,4.09,268,5
+164,Listing 164,Oost,Oost area,Entire home/apt,97.62,1,86,4.3,39,4
+165,Listing 165,Oost,Oost area,Entire home/apt,137.81,1,75,3.72,120,4
+166,Listing 166,Jordaan,Jordaan area,Private room,72.53,14,38,4.2,90,8
+167,Listing 167,Slotervaart,Slotervaart area,Private room,60.11,14,161,3.6,77,8
+168,Listing 168,Noord,Noord area,Private room,46.01,1,28,3.97,180,8
+169,Listing 169,Centrum,Centrum area,Entire home/apt,183.92,7,46,4.19,314,1
+170,Listing 170,Watergraafsmeer,Watergraafsmeer area,Shared room,25,14,96,4.25,164,1
+171,Listing 171,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,114.78,1,43,3.56,258,8
+172,Listing 172,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,89.13,3,81,4.88,186,7
+173,Listing 173,Westerpark,Westerpark area,Private room,49.67,3,171,3.64,33,7
+174,Listing 174,Noord,Noord area,Entire home/apt,89.08,1,76,4.37,170,3
+175,Listing 175,Oost,Oost area,Entire home/apt,93.6,1,66,3.96,304,7
+176,Listing 176,Oost,Oost area,Private room,30.52,7,269,4.26,47,1
+177,Listing 177,Oost,Oost area,Entire home/apt,127.44,2,248,5.0,98,3
+178,Listing 178,De Pijp,De Pijp area,Entire home/apt,124.48,1,51,4.49,259,3
+179,Listing 179,Slotervaart,Slotervaart area,Entire home/apt,104.77,1,84,4.12,224,4
+180,Listing 180,Watergraafsmeer,Watergraafsmeer area,Private room,82.14,2,229,3.96,119,8
+181,Listing 181,Oud-West,Oud-West area,Entire home/apt,179.55,7,236,4.25,144,7
+182,Listing 182,Jordaan,Jordaan area,Private room,61.18,1,70,4.46,128,6
+183,Listing 183,Bos en Lommer,Bos en Lommer area,Shared room,25,1,63,4.64,145,5
+184,Listing 184,Watergraafsmeer,Watergraafsmeer area,Shared room,25,1,75,4.92,223,4
+185,Listing 185,Watergraafsmeer,Watergraafsmeer area,Private room,68.76,3,202,3.85,257,2
+186,Listing 186,Oost,Oost area,Entire home/apt,101.24,3,163,4.69,50,3
+187,Listing 187,Centrum,Centrum area,Entire home/apt,194.83,14,71,4.17,361,1
+188,Listing 188,De Pijp,De Pijp area,Entire home/apt,102.93,7,110,3.67,76,5
+189,Listing 189,Oud-West,Oud-West area,Entire home/apt,144.94,1,234,4.76,32,8
+190,Listing 190,Slotervaart,Slotervaart area,Entire home/apt,91.17,2,263,4.58,294,5
+191,Listing 191,Westerpark,Westerpark area,Entire home/apt,89.34,1,95,4.29,340,6
+192,Listing 192,De Pijp,De Pijp area,Hotel room,124.77,1,278,4.09,259,8
+193,Listing 193,Centrum,Centrum area,Private room,105.19,1,8,4.02,182,2
+194,Listing 194,Slotervaart,Slotervaart area,Private room,40.68,1,170,4.03,68,6
+195,Listing 195,Jordaan,Jordaan area,Private room,57.56,1,245,4.72,323,2
+196,Listing 196,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,48.43,2,103,4.83,22,6
+197,Listing 197,Noord,Noord area,Entire home/apt,119.97,2,129,3.93,18,1
+198,Listing 198,Oost,Oost area,Entire home/apt,108.29,7,188,4.61,223,7
+199,Listing 199,Oost,Oost area,Hotel room,64.54,1,265,4.59,136,2
+200,Listing 200,Westerpark,Westerpark area,Private room,53.06,2,92,3.98,279,2
+201,Listing 201,Oost,Oost area,Private room,45.56,14,218,4.03,85,1
+202,Listing 202,Oost,Oost area,Private room,80.48,1,222,3.61,140,7
+203,Listing 203,Oost,Oost area,Entire home/apt,109.99,14,15,3.55,73,2
+204,Listing 204,Oud-West,Oud-West area,Private room,50.69,7,187,4.92,185,1
+205,Listing 205,Slotervaart,Slotervaart area,Entire home/apt,66.69,1,227,4.29,39,7
+206,Listing 206,Oost,Oost area,Private room,60.96,1,127,4.6,58,8
+207,Listing 207,Bos en Lommer,Bos en Lommer area,Entire home/apt,75.57,14,133,3.82,360,5
+208,Listing 208,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,94.11,14,69,3.76,37,8
+209,Listing 209,De Pijp,De Pijp area,Private room,122.51,1,177,4.32,363,5
+210,Listing 210,Noord,Noord area,Private room,35.61,2,89,3.68,185,4
+211,Listing 211,Jordaan,Jordaan area,Entire home/apt,141.09,1,188,4.42,239,2
+212,Listing 212,De Pijp,De Pijp area,Entire home/apt,130.71,7,245,4.65,269,2
+213,Listing 213,Jordaan,Jordaan area,Hotel room,114.31,1,264,4.82,176,3
+214,Listing 214,Jordaan,Jordaan area,Entire home/apt,142.95,1,28,3.96,63,3
+215,Listing 215,Oost,Oost area,Shared room,40.45,1,265,3.88,145,5
+216,Listing 216,Jordaan,Jordaan area,Private room,127.98,1,273,4.39,47,3
+217,Listing 217,Jordaan,Jordaan area,Private room,75.0,1,21,3.57,14,5
+218,Listing 218,Oud-West,Oud-West area,Private room,35.7,1,213,4.25,316,5
+219,Listing 219,Noord,Noord area,Entire home/apt,105.24,1,152,4.53,232,3
+220,Listing 220,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,71.38,3,237,4.41,104,6
+221,Listing 221,Oost,Oost area,Private room,89.9,1,66,3.98,189,8
+222,Listing 222,De Pijp,De Pijp area,Entire home/apt,88.23,1,126,3.58,72,7
+223,Listing 223,Slotervaart,Slotervaart area,Entire home/apt,126.96,3,167,3.78,295,3
+224,Listing 224,Watergraafsmeer,Watergraafsmeer area,Hotel room,69.98,2,239,4.25,255,2
+225,Listing 225,Westerpark,Westerpark area,Entire home/apt,118.62,1,180,3.92,24,8
+226,Listing 226,Noord,Noord area,Entire home/apt,92.11,1,55,4.82,220,6
+227,Listing 227,Westerpark,Westerpark area,Entire home/apt,83.91,2,99,3.61,185,8
+228,Listing 228,Bos en Lommer,Bos en Lommer area,Entire home/apt,105.2,1,60,4.09,65,6
+229,Listing 229,Bos en Lommer,Bos en Lommer area,Shared room,27.42,1,260,3.57,205,3
+230,Listing 230,Oost,Oost area,Private room,41.68,1,265,4.41,233,3
+231,Listing 231,Oost,Oost area,Shared room,25,3,153,4.26,303,8
+232,Listing 232,Slotervaart,Slotervaart area,Entire home/apt,103.16,3,8,4.51,188,7
+233,Listing 233,Slotervaart,Slotervaart area,Entire home/apt,117.63,14,13,3.9,305,4
+234,Listing 234,Centrum,Centrum area,Private room,65.91,7,87,3.72,268,4
+235,Listing 235,Centrum,Centrum area,Private room,86.02,7,225,3.73,160,4
+236,Listing 236,Westerpark,Westerpark area,Entire home/apt,92.61,1,241,4.28,31,6
+237,Listing 237,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,95.19,3,272,4.51,175,5
+238,Listing 238,Slotervaart,Slotervaart area,Entire home/apt,96.36,2,126,3.84,142,5
+239,Listing 239,Noord,Noord area,Private room,39.0,2,245,3.93,178,7
+240,Listing 240,Westerpark,Westerpark area,Private room,30.94,1,74,3.93,148,2
+241,Listing 241,Oost,Oost area,Shared room,25,2,109,4.9,103,5
+242,Listing 242,Jordaan,Jordaan area,Entire home/apt,132.45,1,122,4.5,124,4
+243,Listing 243,Oud-West,Oud-West area,Entire home/apt,97.81,1,51,3.51,348,3
+244,Listing 244,Westerpark,Westerpark area,Private room,68.98,2,243,4.63,244,5
+245,Listing 245,Oost,Oost area,Entire home/apt,141.89,1,118,4.87,273,3
+246,Listing 246,Westerpark,Westerpark area,Private room,64.93,7,90,4.68,18,3
+247,Listing 247,Noord,Noord area,Private room,73.37,2,54,4.18,171,8
+248,Listing 248,Jordaan,Jordaan area,Private room,81.51,2,239,4.71,139,6
+249,Listing 249,Jordaan,Jordaan area,Private room,61.0,2,7,4.35,172,4
+250,Listing 250,Jordaan,Jordaan area,Private room,54.44,3,207,3.63,218,2
+251,Listing 251,Jordaan,Jordaan area,Hotel room,81.6,7,3,3.85,133,5
+252,Listing 252,Oost,Oost area,Entire home/apt,116.62,3,5,4.54,133,1
+253,Listing 253,De Pijp,De Pijp area,Entire home/apt,146.36,1,159,4.46,353,5
+254,Listing 254,Oost,Oost area,Private room,80.68,14,112,3.73,68,6
+255,Listing 255,Westerpark,Westerpark area,Private room,81.23,1,111,4.29,126,6
+256,Listing 256,De Pijp,De Pijp area,Shared room,25,2,57,4.36,31,3
+257,Listing 257,Jordaan,Jordaan area,Entire home/apt,150.14,14,105,3.64,298,8
+258,Listing 258,Centrum,Centrum area,Entire home/apt,178.73,14,262,4.35,212,8
+259,Listing 259,Noord,Noord area,Private room,25,1,111,3.57,296,6
+260,Listing 260,De Pijp,De Pijp area,Entire home/apt,152.4,14,30,3.55,35,7
+261,Listing 261,Jordaan,Jordaan area,Private room,85.5,7,215,4.17,191,7
+262,Listing 262,Westerpark,Westerpark area,Entire home/apt,49.91,3,276,3.68,68,7
+263,Listing 263,Bos en Lommer,Bos en Lommer area,Entire home/apt,127.62,14,11,4.51,152,7
+264,Listing 264,Bos en Lommer,Bos en Lommer area,Entire home/apt,84.94,14,117,4.02,126,5
+265,Listing 265,Oud-West,Oud-West area,Shared room,35.97,1,214,3.86,314,2
+266,Listing 266,De Pijp,De Pijp area,Private room,55.33,1,228,3.87,306,1
+267,Listing 267,Westerpark,Westerpark area,Entire home/apt,72.53,2,28,3.85,71,6
+268,Listing 268,Slotervaart,Slotervaart area,Private room,34.21,2,164,4.81,121,4
+269,Listing 269,Westerpark,Westerpark area,Entire home/apt,150.19,7,89,4.33,320,1
+270,Listing 270,Oost,Oost area,Shared room,51.21,3,195,4.54,268,7
+271,Listing 271,Jordaan,Jordaan area,Entire home/apt,170.03,2,123,4.79,115,3
+272,Listing 272,Watergraafsmeer,Watergraafsmeer area,Shared room,52.74,1,211,4.08,213,5
+273,Listing 273,Oud-West,Oud-West area,Entire home/apt,144.22,2,189,3.58,47,7
+274,Listing 274,Slotervaart,Slotervaart area,Private room,52.92,2,37,4.22,96,6
+275,Listing 275,Noord,Noord area,Hotel room,122.83,2,60,4.54,245,4
+276,Listing 276,Westerpark,Westerpark area,Shared room,36.03,7,164,4.2,144,6
+277,Listing 277,Noord,Noord area,Entire home/apt,71.62,3,50,4.87,240,6
+278,Listing 278,Oost,Oost area,Entire home/apt,108.11,1,113,3.89,74,7
+279,Listing 279,Noord,Noord area,Entire home/apt,85.6,3,125,3.89,255,8
+280,Listing 280,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,117.14,1,180,4.58,86,8
+281,Listing 281,Jordaan,Jordaan area,Shared room,25,1,30,4.76,268,2
+282,Listing 282,Centrum,Centrum area,Private room,82.5,2,211,3.6,70,3
+283,Listing 283,Centrum,Centrum area,Entire home/apt,173.21,14,247,3.52,337,7
+284,Listing 284,Centrum,Centrum area,Entire home/apt,181.93,2,140,3.53,274,7
+285,Listing 285,Jordaan,Jordaan area,Entire home/apt,169.34,2,98,4.72,317,5
+286,Listing 286,Westerpark,Westerpark area,Entire home/apt,111.46,2,207,4.99,235,4
+287,Listing 287,Noord,Noord area,Private room,64.3,7,16,4.07,47,8
+288,Listing 288,Centrum,Centrum area,Private room,66.21,14,87,4.77,42,6
+289,Listing 289,Slotervaart,Slotervaart area,Hotel room,109.87,2,21,4.85,117,8
+290,Listing 290,Noord,Noord area,Entire home/apt,88.05,2,38,4.85,350,1
+291,Listing 291,Jordaan,Jordaan area,Shared room,27.88,7,73,4.89,364,5
+292,Listing 292,Jordaan,Jordaan area,Private room,126.91,3,199,4.08,346,3
+293,Listing 293,De Pijp,De Pijp area,Entire home/apt,136.56,1,223,4.01,118,7
+294,Listing 294,Oost,Oost area,Entire home/apt,108.93,14,139,3.84,230,7
+295,Listing 295,Westerpark,Westerpark area,Entire home/apt,88.22,1,151,3.62,126,3
+296,Listing 296,Westerpark,Westerpark area,Private room,42.45,3,78,4.04,199,2
+297,Listing 297,Centrum,Centrum area,Shared room,25,1,52,3.78,67,8
+298,Listing 298,Bos en Lommer,Bos en Lommer area,Private room,56.52,1,208,3.63,52,2
+299,Listing 299,Slotervaart,Slotervaart area,Private room,33.61,7,149,4.67,211,4
+300,Listing 300,Slotervaart,Slotervaart area,Entire home/apt,102.61,1,194,3.9,86,5
+301,Listing 301,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,107.99,1,153,4.04,247,4
+302,Listing 302,Watergraafsmeer,Watergraafsmeer area,Private room,63.95,1,100,3.7,234,1
+303,Listing 303,Westerpark,Westerpark area,Entire home/apt,78.71,3,168,4.15,225,3
+304,Listing 304,Noord,Noord area,Entire home/apt,70.25,3,102,3.77,245,7
+305,Listing 305,Oost,Oost area,Entire home/apt,102.12,7,124,3.92,166,7
+306,Listing 306,Oost,Oost area,Entire home/apt,88.13,1,102,4.52,303,1
+307,Listing 307,Watergraafsmeer,Watergraafsmeer area,Shared room,38.97,14,35,3.71,209,5
+308,Listing 308,Oud-West,Oud-West area,Entire home/apt,159.61,7,78,3.61,216,8
+309,Listing 309,Slotervaart,Slotervaart area,Entire home/apt,40.04,1,214,4.69,278,6
+310,Listing 310,Bos en Lommer,Bos en Lommer area,Private room,43.13,2,43,4.49,55,6
+311,Listing 311,Jordaan,Jordaan area,Private room,135.14,7,204,3.66,169,2
+312,Listing 312,Noord,Noord area,Entire home/apt,110.76,2,265,4.17,285,7
+313,Listing 313,Watergraafsmeer,Watergraafsmeer area,Private room,29.99,14,176,3.66,12,7
+314,Listing 314,De Pijp,De Pijp area,Entire home/apt,117.55,2,72,4.01,178,4
+315,Listing 315,Bos en Lommer,Bos en Lommer area,Entire home/apt,68.76,1,231,3.95,163,2
+316,Listing 316,Centrum,Centrum area,Private room,93.2,1,55,4.89,346,4
+317,Listing 317,Bos en Lommer,Bos en Lommer area,Entire home/apt,103.71,7,236,4.44,118,3
+318,Listing 318,Westerpark,Westerpark area,Entire home/apt,126.65,7,101,4.08,230,4
+319,Listing 319,Oud-West,Oud-West area,Entire home/apt,114.78,1,52,4.05,274,4
+320,Listing 320,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,65.83,3,250,4.4,270,7
+321,Listing 321,Slotervaart,Slotervaart area,Entire home/apt,71.77,2,88,4.88,344,2
+322,Listing 322,Jordaan,Jordaan area,Entire home/apt,177.74,1,122,3.77,156,3
+323,Listing 323,Bos en Lommer,Bos en Lommer area,Entire home/apt,68.5,14,216,4.45,95,3
+324,Listing 324,Bos en Lommer,Bos en Lommer area,Entire home/apt,75.1,1,147,3.97,71,8
+325,Listing 325,Slotervaart,Slotervaart area,Entire home/apt,83.24,7,69,4.95,99,8
+326,Listing 326,Westerpark,Westerpark area,Private room,54.65,14,212,4.23,363,2
+327,Listing 327,Slotervaart,Slotervaart area,Entire home/apt,86.15,2,140,3.75,115,8
+328,Listing 328,Slotervaart,Slotervaart area,Private room,25.92,1,253,4.36,281,5
+329,Listing 329,Bos en Lommer,Bos en Lommer area,Private room,25,2,21,4.98,225,2
+330,Listing 330,Oud-West,Oud-West area,Entire home/apt,152.61,2,16,4.02,230,2
+331,Listing 331,Watergraafsmeer,Watergraafsmeer area,Private room,77.06,3,107,4.79,301,7
+332,Listing 332,Jordaan,Jordaan area,Private room,104.59,1,105,4.36,105,5
+333,Listing 333,Slotervaart,Slotervaart area,Entire home/apt,71.07,2,148,4.93,293,2
+334,Listing 334,Jordaan,Jordaan area,Hotel room,155.93,2,210,4.8,30,3
+335,Listing 335,Jordaan,Jordaan area,Entire home/apt,150.98,1,201,4.37,250,5
+336,Listing 336,Westerpark,Westerpark area,Entire home/apt,68.54,1,38,4.1,324,5
+337,Listing 337,Oost,Oost area,Entire home/apt,83.66,3,47,4.78,234,7
+338,Listing 338,Oud-West,Oud-West area,Hotel room,101.98,2,108,3.98,253,5
+339,Listing 339,Oost,Oost area,Entire home/apt,136.68,1,175,3.57,349,8
+340,Listing 340,Centrum,Centrum area,Entire home/apt,208.62,14,80,3.5,225,7
+341,Listing 341,Oud-West,Oud-West area,Hotel room,134.84,2,154,3.64,81,6
+342,Listing 342,Noord,Noord area,Entire home/apt,72.71,7,84,4.44,26,4
+343,Listing 343,Westerpark,Westerpark area,Private room,52.23,1,244,4.39,39,8
+344,Listing 344,Centrum,Centrum area,Entire home/apt,179.11,7,175,4.54,61,8
+345,Listing 345,De Pijp,De Pijp area,Entire home/apt,160.66,3,52,4.82,160,3
+346,Listing 346,Westerpark,Westerpark area,Private room,71.78,1,68,3.6,328,1
+347,Listing 347,Slotervaart,Slotervaart area,Private room,25,14,77,4.79,210,2
+348,Listing 348,De Pijp,De Pijp area,Entire home/apt,141.77,7,63,4.03,301,7
+349,Listing 349,Oost,Oost area,Private room,55.4,2,127,4.67,283,1
+350,Listing 350,Noord,Noord area,Entire home/apt,123.77,7,260,3.94,96,1
+351,Listing 351,Oud-West,Oud-West area,Entire home/apt,142.87,1,36,4.98,270,6
+352,Listing 352,Jordaan,Jordaan area,Entire home/apt,175.31,1,215,4.64,187,2
+353,Listing 353,Centrum,Centrum area,Private room,103.89,2,30,4.44,203,7
+354,Listing 354,Westerpark,Westerpark area,Private room,53.71,1,42,3.92,327,5
+355,Listing 355,De Pijp,De Pijp area,Entire home/apt,140.53,7,274,4.38,167,2
+356,Listing 356,Noord,Noord area,Private room,82.28,2,122,3.63,29,7
+357,Listing 357,De Pijp,De Pijp area,Entire home/apt,116.66,1,89,4.56,61,1
+358,Listing 358,Jordaan,Jordaan area,Entire home/apt,149.13,2,177,3.75,267,3
+359,Listing 359,Noord,Noord area,Private room,79.14,2,171,4.29,219,5
+360,Listing 360,Slotervaart,Slotervaart area,Private room,71.49,3,254,3.58,233,3
+361,Listing 361,Oost,Oost area,Entire home/apt,116.19,1,59,3.57,116,1
+362,Listing 362,Oud-West,Oud-West area,Entire home/apt,83.06,1,186,3.77,196,1
+363,Listing 363,Bos en Lommer,Bos en Lommer area,Private room,38.45,2,114,4.12,164,6
+364,Listing 364,Noord,Noord area,Private room,25,1,190,3.77,61,1
+365,Listing 365,Westerpark,Westerpark area,Entire home/apt,89.1,1,159,4.33,167,1
+366,Listing 366,Oost,Oost area,Entire home/apt,113.54,2,155,4.2,318,8
+367,Listing 367,Oud-West,Oud-West area,Private room,28.36,7,77,3.54,3,6
+368,Listing 368,Centrum,Centrum area,Hotel room,133.72,7,0,,336,5
+369,Listing 369,De Pijp,De Pijp area,Entire home/apt,150.75,2,30,3.64,72,4
+370,Listing 370,Bos en Lommer,Bos en Lommer area,Entire home/apt,87.79,1,190,4.37,234,3
+371,Listing 371,Westerpark,Westerpark area,Entire home/apt,85.54,2,66,3.89,121,6
+372,Listing 372,Westerpark,Westerpark area,Private room,43.67,14,167,3.91,162,2
+373,Listing 373,Oud-West,Oud-West area,Entire home/apt,126.21,14,54,4.2,84,7
+374,Listing 374,De Pijp,De Pijp area,Entire home/apt,120.47,2,106,4.2,231,2
+375,Listing 375,De Pijp,De Pijp area,Entire home/apt,115.36,3,20,3.72,110,4
+376,Listing 376,Oost,Oost area,Entire home/apt,75.55,2,25,3.89,346,3
+377,Listing 377,Centrum,Centrum area,Hotel room,159.57,14,127,3.65,48,3
+378,Listing 378,De Pijp,De Pijp area,Entire home/apt,109.82,2,113,4.74,66,6
+379,Listing 379,De Pijp,De Pijp area,Private room,62.97,2,11,4.85,33,8
+380,Listing 380,Jordaan,Jordaan area,Entire home/apt,196.55,1,169,4.91,62,1
+381,Listing 381,Jordaan,Jordaan area,Shared room,25,7,254,4.52,15,3
+382,Listing 382,Oost,Oost area,Entire home/apt,123.09,2,95,4.17,140,3
+383,Listing 383,Centrum,Centrum area,Private room,68.58,14,255,3.59,210,5
+384,Listing 384,Westerpark,Westerpark area,Entire home/apt,85.64,2,102,4.45,329,1
+385,Listing 385,Westerpark,Westerpark area,Private room,36.62,3,248,4.08,176,3
+386,Listing 386,Centrum,Centrum area,Entire home/apt,199.42,2,112,3.59,15,8
+387,Listing 387,Bos en Lommer,Bos en Lommer area,Entire home/apt,77.42,2,81,4.49,51,5
+388,Listing 388,Bos en Lommer,Bos en Lommer area,Private room,37.67,7,28,4.03,112,3
+389,Listing 389,Jordaan,Jordaan area,Entire home/apt,146.43,1,183,4.56,302,6
+390,Listing 390,Slotervaart,Slotervaart area,Private room,72.3,2,96,3.76,252,1
+391,Listing 391,De Pijp,De Pijp area,Entire home/apt,126.78,3,244,4.88,0,4
+392,Listing 392,Jordaan,Jordaan area,Entire home/apt,157.61,1,90,3.53,165,3
+393,Listing 393,De Pijp,De Pijp area,Private room,97.58,7,191,4.38,360,6
+394,Listing 394,Noord,Noord area,Entire home/apt,55.95,14,80,4.47,223,3
+395,Listing 395,Bos en Lommer,Bos en Lommer area,Private room,76.72,1,114,4.07,340,5
+396,Listing 396,Jordaan,Jordaan area,Entire home/apt,144.79,7,0,,359,1
+397,Listing 397,Jordaan,Jordaan area,Private room,126.05,1,113,4.91,327,3
+398,Listing 398,Oost,Oost area,Private room,30.07,3,121,3.75,177,2
+399,Listing 399,Oost,Oost area,Entire home/apt,108.55,2,34,4.68,179,1
+400,Listing 400,Centrum,Centrum area,Entire home/apt,195.09,7,214,4.24,85,7
+401,Listing 401,Oost,Oost area,Entire home/apt,128.37,14,115,3.61,83,1
+402,Listing 402,Noord,Noord area,Entire home/apt,108.6,1,133,4.01,53,7
+403,Listing 403,Jordaan,Jordaan area,Private room,39.11,14,47,4.56,173,7
+404,Listing 404,Jordaan,Jordaan area,Private room,67.55,1,222,3.65,80,4
+405,Listing 405,Oud-West,Oud-West area,Entire home/apt,82.02,2,276,3.95,135,2
+406,Listing 406,Centrum,Centrum area,Entire home/apt,164.8,1,251,4.04,78,7
+407,Listing 407,De Pijp,De Pijp area,Entire home/apt,115.78,1,102,3.81,49,5
+408,Listing 408,De Pijp,De Pijp area,Entire home/apt,106.95,7,59,4.21,157,5
+409,Listing 409,De Pijp,De Pijp area,Private room,50.35,1,195,4.17,189,5
+410,Listing 410,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,112.51,1,115,3.73,137,2
+411,Listing 411,De Pijp,De Pijp area,Private room,72.39,1,116,4.76,283,7
+412,Listing 412,Bos en Lommer,Bos en Lommer area,Private room,25.69,2,243,4.21,293,2
+413,Listing 413,Westerpark,Westerpark area,Shared room,26.25,1,264,3.68,292,8
+414,Listing 414,Jordaan,Jordaan area,Shared room,25,2,85,3.69,108,7
+415,Listing 415,De Pijp,De Pijp area,Hotel room,40.86,2,75,3.98,304,2
+416,Listing 416,De Pijp,De Pijp area,Entire home/apt,157.14,3,203,4.78,282,8
+417,Listing 417,Centrum,Centrum area,Private room,72.59,7,214,3.72,57,2
+418,Listing 418,De Pijp,De Pijp area,Private room,48.01,3,51,4.82,146,5
+419,Listing 419,Westerpark,Westerpark area,Private room,32.14,7,88,3.72,141,7
+420,Listing 420,Centrum,Centrum area,Entire home/apt,170.1,2,169,3.57,353,8
+421,Listing 421,Noord,Noord area,Private room,84.08,2,155,4.76,159,2
+422,Listing 422,Oud-West,Oud-West area,Entire home/apt,129.68,2,226,4.59,164,2
+423,Listing 423,Oud-West,Oud-West area,Entire home/apt,142.5,3,248,4.73,264,3
+424,Listing 424,De Pijp,De Pijp area,Entire home/apt,119.42,1,259,4.67,206,1
+425,Listing 425,Jordaan,Jordaan area,Entire home/apt,178.96,14,127,3.58,16,6
+426,Listing 426,Oud-West,Oud-West area,Entire home/apt,91.96,7,237,4.45,258,2
+427,Listing 427,Centrum,Centrum area,Entire home/apt,158.31,3,242,4.02,300,5
+428,Listing 428,De Pijp,De Pijp area,Entire home/apt,131.53,1,197,4.78,25,4
+429,Listing 429,Oud-West,Oud-West area,Private room,55.55,1,209,4.8,262,1
+430,Listing 430,Watergraafsmeer,Watergraafsmeer area,Shared room,25,1,88,3.84,307,5
+431,Listing 431,Noord,Noord area,Entire home/apt,81.78,14,129,3.95,111,7
+432,Listing 432,Slotervaart,Slotervaart area,Entire home/apt,97.97,3,261,4.34,339,5
+433,Listing 433,Noord,Noord area,Private room,29.51,3,141,4.79,327,5
+434,Listing 434,Noord,Noord area,Entire home/apt,97.07,1,264,4.71,123,7
+435,Listing 435,Oost,Oost area,Private room,49.76,7,151,4.11,132,1
+436,Listing 436,Slotervaart,Slotervaart area,Private room,25,2,97,4.53,175,8
+437,Listing 437,Oost,Oost area,Entire home/apt,131.63,1,92,4.21,150,5
+438,Listing 438,Bos en Lommer,Bos en Lommer area,Private room,25,3,93,4.48,348,4
+439,Listing 439,Oost,Oost area,Entire home/apt,124.44,2,169,4.38,190,8
+440,Listing 440,De Pijp,De Pijp area,Entire home/apt,114.9,2,36,4.25,241,7
+441,Listing 441,Bos en Lommer,Bos en Lommer area,Entire home/apt,127.01,3,70,4.11,102,8
+442,Listing 442,Jordaan,Jordaan area,Entire home/apt,173.08,14,92,4.0,41,3
+443,Listing 443,Oost,Oost area,Private room,70.98,1,86,4.23,295,2
+444,Listing 444,Jordaan,Jordaan area,Private room,80.47,7,219,4.95,206,7
+445,Listing 445,Centrum,Centrum area,Entire home/apt,186.04,2,7,3.53,164,1
+446,Listing 446,Oud-West,Oud-West area,Entire home/apt,143.36,1,176,3.65,159,5
+447,Listing 447,Jordaan,Jordaan area,Entire home/apt,206.71,3,233,4.15,266,3
+448,Listing 448,Oost,Oost area,Hotel room,101.8,2,250,3.75,183,7
+449,Listing 449,Centrum,Centrum area,Entire home/apt,178.48,1,11,3.68,301,1
+450,Listing 450,Westerpark,Westerpark area,Private room,42.0,1,130,4.39,273,1
+451,Listing 451,De Pijp,De Pijp area,Private room,95.36,7,213,3.69,227,5
+452,Listing 452,Watergraafsmeer,Watergraafsmeer area,Private room,53.79,1,105,3.95,355,2
+453,Listing 453,Bos en Lommer,Bos en Lommer area,Entire home/apt,81.44,1,53,3.92,261,2
+454,Listing 454,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,93.31,2,102,4.04,134,7
+455,Listing 455,Noord,Noord area,Entire home/apt,53.07,2,246,3.5,169,2
+456,Listing 456,De Pijp,De Pijp area,Private room,51.92,1,252,4.67,76,2
+457,Listing 457,De Pijp,De Pijp area,Shared room,25.39,14,151,3.58,135,3
+458,Listing 458,Centrum,Centrum area,Private room,72.6,3,184,4.14,346,2
+459,Listing 459,De Pijp,De Pijp area,Private room,67.15,1,70,3.99,339,8
+460,Listing 460,Slotervaart,Slotervaart area,Entire home/apt,83.23,3,47,3.77,190,7
+461,Listing 461,Westerpark,Westerpark area,Hotel room,81.3,1,244,3.67,215,1
+462,Listing 462,Jordaan,Jordaan area,Entire home/apt,179.56,14,247,3.77,291,7
+463,Listing 463,Oost,Oost area,Private room,81.76,14,66,3.67,247,7
+464,Listing 464,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,68.7,3,133,3.52,335,4
+465,Listing 465,Oost,Oost area,Entire home/apt,99.5,2,221,4.22,338,7
+466,Listing 466,Jordaan,Jordaan area,Private room,54.31,1,27,4.26,5,8
+467,Listing 467,Watergraafsmeer,Watergraafsmeer area,Private room,70.74,2,123,3.58,169,4
+468,Listing 468,Bos en Lommer,Bos en Lommer area,Private room,55.54,1,206,4.19,120,8
+469,Listing 469,De Pijp,De Pijp area,Private room,55.5,1,254,3.65,334,7
+470,Listing 470,Centrum,Centrum area,Private room,93.28,2,0,,46,4
+471,Listing 471,Watergraafsmeer,Watergraafsmeer area,Hotel room,75.63,3,114,4.34,232,8
+472,Listing 472,Oost,Oost area,Private room,60.06,2,58,3.5,49,6
+473,Listing 473,Noord,Noord area,Entire home/apt,88.34,1,84,4.73,252,7
+474,Listing 474,De Pijp,De Pijp area,Entire home/apt,136.75,1,100,4.9,96,7
+475,Listing 475,Oud-West,Oud-West area,Entire home/apt,131.23,1,55,4.89,212,2
+476,Listing 476,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,68.85,14,258,3.51,68,1
+477,Listing 477,Bos en Lommer,Bos en Lommer area,Shared room,39.16,1,260,4.6,90,3
+478,Listing 478,De Pijp,De Pijp area,Entire home/apt,110.51,7,164,4.13,258,4
+479,Listing 479,Noord,Noord area,Entire home/apt,85.8,7,68,4.4,70,5
+480,Listing 480,Bos en Lommer,Bos en Lommer area,Private room,58.93,2,111,4.44,102,5
+481,Listing 481,Oost,Oost area,Shared room,54.17,3,91,4.57,257,6
+482,Listing 482,Bos en Lommer,Bos en Lommer area,Entire home/apt,113.31,2,213,4.82,345,7
+483,Listing 483,Centrum,Centrum area,Entire home/apt,191.07,2,28,4.63,102,3
+484,Listing 484,Noord,Noord area,Private room,49.27,2,74,3.81,31,1
+485,Listing 485,Oost,Oost area,Private room,87.19,7,114,3.86,331,5
+486,Listing 486,Centrum,Centrum area,Shared room,78.16,3,198,4.95,213,1
+487,Listing 487,Centrum,Centrum area,Private room,101.71,3,226,4.63,115,4
+488,Listing 488,Oud-West,Oud-West area,Entire home/apt,163.57,1,90,3.78,349,3
+489,Listing 489,Bos en Lommer,Bos en Lommer area,Entire home/apt,105.66,1,135,4.38,66,5
+490,Listing 490,Centrum,Centrum area,Entire home/apt,184.09,1,79,4.89,20,1
+491,Listing 491,Slotervaart,Slotervaart area,Private room,31.34,3,183,4.29,37,3
+492,Listing 492,Bos en Lommer,Bos en Lommer area,Entire home/apt,123.52,7,258,4.31,81,7
+493,Listing 493,De Pijp,De Pijp area,Entire home/apt,151.94,2,169,3.83,184,8
+494,Listing 494,Bos en Lommer,Bos en Lommer area,Private room,25.26,3,4,4.17,58,4
+495,Listing 495,Centrum,Centrum area,Private room,70.81,2,58,4.31,197,5
+496,Listing 496,Centrum,Centrum area,Shared room,94.16,14,191,4.23,263,5
+497,Listing 497,Oud-West,Oud-West area,Entire home/apt,132.81,1,275,4.44,273,4
+498,Listing 498,Oud-West,Oud-West area,Private room,66.94,2,217,4.31,53,7
+499,Listing 499,De Pijp,De Pijp area,Private room,77.61,1,169,3.61,19,3
+500,Listing 500,Noord,Noord area,Private room,65.74,7,116,4.08,132,7
+501,Listing 501,Westerpark,Westerpark area,Entire home/apt,97.29,1,3,4.63,328,1
+502,Listing 502,De Pijp,De Pijp area,Entire home/apt,136.42,2,257,4.68,54,5
+503,Listing 503,Slotervaart,Slotervaart area,Entire home/apt,87.06,1,202,4.21,338,4
+504,Listing 504,Jordaan,Jordaan area,Private room,58.64,1,279,3.95,151,6
+505,Listing 505,Centrum,Centrum area,Private room,80.35,7,2,4.31,293,2
+506,Listing 506,Noord,Noord area,Entire home/apt,91.52,7,176,4.86,108,3
+507,Listing 507,Jordaan,Jordaan area,Entire home/apt,148.67,1,58,4.78,92,8
+508,Listing 508,Bos en Lommer,Bos en Lommer area,Entire home/apt,79.77,1,34,3.8,128,8
+509,Listing 509,Oost,Oost area,Entire home/apt,103.06,1,145,4.85,317,6
+510,Listing 510,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,87.13,1,156,4.35,355,6
+511,Listing 511,Oost,Oost area,Hotel room,96.48,7,113,3.92,364,6
+512,Listing 512,Jordaan,Jordaan area,Private room,95.12,14,169,4.17,245,5
+513,Listing 513,Watergraafsmeer,Watergraafsmeer area,Private room,62.29,2,143,3.89,71,2
+514,Listing 514,De Pijp,De Pijp area,Private room,89.4,1,259,4.72,323,7
+515,Listing 515,Slotervaart,Slotervaart area,Entire home/apt,100.13,1,276,4.05,241,4
+516,Listing 516,Slotervaart,Slotervaart area,Private room,46.05,14,148,4.25,68,2
+517,Listing 517,Westerpark,Westerpark area,Entire home/apt,119.74,1,84,4.17,263,3
+518,Listing 518,Slotervaart,Slotervaart area,Shared room,26.48,3,74,3.56,247,8
+519,Listing 519,Oud-West,Oud-West area,Entire home/apt,120.97,3,105,4.08,265,8
+520,Listing 520,Centrum,Centrum area,Entire home/apt,184.33,2,165,4.75,52,5
+521,Listing 521,Slotervaart,Slotervaart area,Entire home/apt,98.41,1,187,4.27,300,7
+522,Listing 522,Oud-West,Oud-West area,Entire home/apt,150.85,14,180,4.69,176,1
+523,Listing 523,Bos en Lommer,Bos en Lommer area,Private room,31.56,2,263,3.82,329,3
+524,Listing 524,Jordaan,Jordaan area,Entire home/apt,165.33,2,60,4.12,338,6
+525,Listing 525,De Pijp,De Pijp area,Entire home/apt,116.36,7,82,3.53,331,1
+526,Listing 526,Jordaan,Jordaan area,Private room,81.83,1,82,4.84,68,3
+527,Listing 527,Centrum,Centrum area,Entire home/apt,201.31,1,207,4.82,306,5
+528,Listing 528,De Pijp,De Pijp area,Entire home/apt,118.71,1,241,3.83,246,7
+529,Listing 529,Slotervaart,Slotervaart area,Entire home/apt,55.34,1,261,4.59,135,6
+530,Listing 530,Watergraafsmeer,Watergraafsmeer area,Private room,33.05,7,35,4.08,117,2
+531,Listing 531,Centrum,Centrum area,Entire home/apt,195.06,1,214,3.77,76,1
+532,Listing 532,Bos en Lommer,Bos en Lommer area,Entire home/apt,71.7,14,60,4.49,47,1
+533,Listing 533,Westerpark,Westerpark area,Entire home/apt,100.91,2,271,4.91,219,8
+534,Listing 534,Westerpark,Westerpark area,Entire home/apt,109.34,1,50,3.88,217,4
+535,Listing 535,De Pijp,De Pijp area,Entire home/apt,144.66,1,96,4.37,2,2
+536,Listing 536,Bos en Lommer,Bos en Lommer area,Entire home/apt,75.67,3,105,4.11,352,2
+537,Listing 537,Jordaan,Jordaan area,Entire home/apt,146.62,3,274,4.42,216,7
+538,Listing 538,Oud-West,Oud-West area,Entire home/apt,117.05,3,247,4.34,91,8
+539,Listing 539,Noord,Noord area,Hotel room,45.52,1,203,4.62,70,8
+540,Listing 540,Jordaan,Jordaan area,Entire home/apt,143.83,3,260,4.7,205,1
+541,Listing 541,Jordaan,Jordaan area,Entire home/apt,136.26,7,74,3.63,241,5
+542,Listing 542,Oud-West,Oud-West area,Entire home/apt,97.77,7,19,4.42,196,5
+543,Listing 543,Slotervaart,Slotervaart area,Entire home/apt,86.84,1,253,3.8,224,5
+544,Listing 544,Oud-West,Oud-West area,Entire home/apt,112.72,2,261,4.42,264,1
+545,Listing 545,Oost,Oost area,Entire home/apt,121.71,3,141,4.5,204,7
+546,Listing 546,Slotervaart,Slotervaart area,Entire home/apt,85.02,1,7,4.88,360,5
+547,Listing 547,Bos en Lommer,Bos en Lommer area,Shared room,25,2,141,4.18,115,7
+548,Listing 548,Slotervaart,Slotervaart area,Entire home/apt,126.96,1,89,4.34,208,5
+549,Listing 549,Oost,Oost area,Shared room,49.37,2,275,4.54,294,7
+550,Listing 550,Slotervaart,Slotervaart area,Entire home/apt,37.63,14,124,4.52,173,1
+551,Listing 551,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,125.83,2,112,4.7,346,7
+552,Listing 552,Oost,Oost area,Entire home/apt,121.67,2,4,3.87,358,2
+553,Listing 553,Westerpark,Westerpark area,Private room,55.93,3,91,4.03,243,5
+554,Listing 554,Jordaan,Jordaan area,Shared room,40.83,2,97,3.85,255,4
+555,Listing 555,Noord,Noord area,Entire home/apt,99.43,1,182,3.68,79,2
+556,Listing 556,Watergraafsmeer,Watergraafsmeer area,Private room,64.5,14,277,4.06,21,6
+557,Listing 557,Watergraafsmeer,Watergraafsmeer area,Private room,69.17,1,140,4.98,251,5
+558,Listing 558,Westerpark,Westerpark area,Entire home/apt,87.22,7,65,4.22,27,1
+559,Listing 559,Bos en Lommer,Bos en Lommer area,Entire home/apt,112.12,14,234,3.97,61,1
+560,Listing 560,Centrum,Centrum area,Private room,63.4,1,194,3.99,297,5
+561,Listing 561,Jordaan,Jordaan area,Entire home/apt,161.82,1,175,4.25,187,4
+562,Listing 562,Westerpark,Westerpark area,Private room,75.01,7,190,3.92,186,3
+563,Listing 563,Slotervaart,Slotervaart area,Entire home/apt,72.2,2,51,4.33,138,7
+564,Listing 564,Oud-West,Oud-West area,Entire home/apt,118.39,1,76,3.76,242,8
+565,Listing 565,Jordaan,Jordaan area,Hotel room,142.11,2,161,3.88,249,1
+566,Listing 566,Westerpark,Westerpark area,Entire home/apt,85.43,2,83,4.72,30,8
+567,Listing 567,De Pijp,De Pijp area,Entire home/apt,120.4,1,131,4.12,176,6
+568,Listing 568,Slotervaart,Slotervaart area,Entire home/apt,101.31,2,275,4.03,89,8
+569,Listing 569,Watergraafsmeer,Watergraafsmeer area,Private room,37.94,3,74,4.13,85,7
+570,Listing 570,De Pijp,De Pijp area,Entire home/apt,141.17,3,175,3.98,116,5
+571,Listing 571,Noord,Noord area,Private room,25,14,185,4.12,300,3
+572,Listing 572,Centrum,Centrum area,Entire home/apt,205.54,2,120,4.91,338,2
+573,Listing 573,Oud-West,Oud-West area,Entire home/apt,130.79,1,242,3.54,280,7
+574,Listing 574,Bos en Lommer,Bos en Lommer area,Private room,49.38,2,42,4.43,53,2
+575,Listing 575,Westerpark,Westerpark area,Entire home/apt,105.27,1,64,3.54,67,6
+576,Listing 576,Oost,Oost area,Private room,71.35,2,239,4.32,276,3
+577,Listing 577,Bos en Lommer,Bos en Lommer area,Entire home/apt,66.9,2,222,4.86,268,8
+578,Listing 578,Bos en Lommer,Bos en Lommer area,Entire home/apt,73.75,2,45,4.05,226,5
+579,Listing 579,Jordaan,Jordaan area,Entire home/apt,196.76,2,69,4.2,176,1
+580,Listing 580,Watergraafsmeer,Watergraafsmeer area,Shared room,30.02,1,244,4.65,153,5
+581,Listing 581,Slotervaart,Slotervaart area,Entire home/apt,104.33,7,210,4.09,287,3
+582,Listing 582,Westerpark,Westerpark area,Private room,53.38,1,112,4.13,134,4
+583,Listing 583,Bos en Lommer,Bos en Lommer area,Private room,75.65,2,139,4.12,145,2
+584,Listing 584,Jordaan,Jordaan area,Entire home/apt,140.54,14,56,4.43,326,5
+585,Listing 585,Slotervaart,Slotervaart area,Entire home/apt,80.07,1,273,4.96,11,5
+586,Listing 586,Noord,Noord area,Entire home/apt,105.38,2,224,3.64,4,1
+587,Listing 587,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,69.21,14,255,4.55,190,1
+588,Listing 588,Oost,Oost area,Entire home/apt,126.87,2,74,4.66,28,2
+589,Listing 589,Bos en Lommer,Bos en Lommer area,Entire home/apt,103.64,1,195,4.96,6,4
+590,Listing 590,Westerpark,Westerpark area,Private room,88.39,1,226,3.8,126,2
+591,Listing 591,Bos en Lommer,Bos en Lommer area,Private room,50.13,1,159,4.44,165,1
+592,Listing 592,Bos en Lommer,Bos en Lommer area,Entire home/apt,109.18,2,129,3.8,246,1
+593,Listing 593,Oud-West,Oud-West area,Hotel room,101.88,2,7,4.38,85,7
+594,Listing 594,Oud-West,Oud-West area,Entire home/apt,146.26,14,21,4.53,297,3
+595,Listing 595,Oost,Oost area,Private room,55.19,1,173,3.59,320,3
+596,Listing 596,Bos en Lommer,Bos en Lommer area,Private room,68.54,2,64,3.98,249,6
+597,Listing 597,Watergraafsmeer,Watergraafsmeer area,Private room,69.31,1,68,4.23,128,8
+598,Listing 598,Bos en Lommer,Bos en Lommer area,Entire home/apt,92.61,1,250,4.32,97,6
+599,Listing 599,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,121.7,1,82,4.17,35,5
+600,Listing 600,Bos en Lommer,Bos en Lommer area,Entire home/apt,51.32,7,0,,326,3
+601,Listing 601,Centrum,Centrum area,Private room,71.72,7,164,3.78,32,8
+602,Listing 602,Bos en Lommer,Bos en Lommer area,Entire home/apt,110.98,7,144,4.46,165,2
+603,Listing 603,De Pijp,De Pijp area,Entire home/apt,164.69,1,66,3.8,91,8
+604,Listing 604,Oud-West,Oud-West area,Entire home/apt,140.45,14,198,4.29,336,5
+605,Listing 605,Centrum,Centrum area,Entire home/apt,173.97,14,106,4.89,335,2
+606,Listing 606,Watergraafsmeer,Watergraafsmeer area,Private room,45.26,7,31,4.73,184,1
+607,Listing 607,Slotervaart,Slotervaart area,Entire home/apt,92.39,2,155,4.94,39,2
+608,Listing 608,De Pijp,De Pijp area,Private room,66.93,2,272,3.79,197,4
+609,Listing 609,Slotervaart,Slotervaart area,Private room,56.87,3,212,4.51,54,7
+610,Listing 610,De Pijp,De Pijp area,Entire home/apt,160.0,7,92,4.26,281,3
+611,Listing 611,Bos en Lommer,Bos en Lommer area,Hotel room,54.54,3,161,4.77,281,7
+612,Listing 612,Westerpark,Westerpark area,Private room,59.03,2,165,4.34,311,4
+613,Listing 613,Westerpark,Westerpark area,Private room,66.19,7,231,3.5,229,1
+614,Listing 614,Noord,Noord area,Private room,40.65,2,265,3.51,69,4
+615,Listing 615,Oud-West,Oud-West area,Private room,99.31,1,141,3.64,283,8
+616,Listing 616,Oost,Oost area,Entire home/apt,115.05,2,135,3.85,187,5
+617,Listing 617,De Pijp,De Pijp area,Private room,52.29,14,39,3.76,166,2
+618,Listing 618,Slotervaart,Slotervaart area,Private room,36.61,7,19,3.62,295,1
+619,Listing 619,Oost,Oost area,Entire home/apt,118.5,1,61,4.45,116,7
+620,Listing 620,Centrum,Centrum area,Entire home/apt,161.06,1,21,3.99,163,4
+621,Listing 621,Jordaan,Jordaan area,Entire home/apt,157.69,1,228,3.83,304,5
+622,Listing 622,Westerpark,Westerpark area,Entire home/apt,85.15,14,172,4.36,42,1
+623,Listing 623,Bos en Lommer,Bos en Lommer area,Entire home/apt,110.32,14,66,4.34,69,8
+624,Listing 624,Westerpark,Westerpark area,Private room,64.53,2,100,3.86,287,5
+625,Listing 625,Westerpark,Westerpark area,Entire home/apt,112.7,3,211,4.02,216,6
+626,Listing 626,Oost,Oost area,Private room,51.02,1,12,4.98,156,8
+627,Listing 627,Slotervaart,Slotervaart area,Entire home/apt,120.47,3,102,3.73,350,2
+628,Listing 628,De Pijp,De Pijp area,Private room,75.28,1,124,4.8,317,5
+629,Listing 629,Centrum,Centrum area,Entire home/apt,185.71,3,241,3.81,11,4
+630,Listing 630,Oud-West,Oud-West area,Entire home/apt,108.92,14,132,4.43,280,3
+631,Listing 631,Centrum,Centrum area,Entire home/apt,200.32,1,130,3.93,87,5
+632,Listing 632,Centrum,Centrum area,Entire home/apt,166.38,7,4,4.49,34,6
+633,Listing 633,De Pijp,De Pijp area,Entire home/apt,149.48,1,118,4.86,194,8
+634,Listing 634,Slotervaart,Slotervaart area,Entire home/apt,63.57,14,95,4.34,101,1
+635,Listing 635,Centrum,Centrum area,Entire home/apt,162.29,1,201,4.02,80,6
+636,Listing 636,Oost,Oost area,Private room,51.69,2,120,4.72,256,5
+637,Listing 637,Westerpark,Westerpark area,Private room,54.44,1,143,4.01,115,7
+638,Listing 638,Jordaan,Jordaan area,Entire home/apt,155.51,2,195,4.13,266,3
+639,Listing 639,Westerpark,Westerpark area,Hotel room,99.08,2,277,4.48,67,4
+640,Listing 640,Jordaan,Jordaan area,Entire home/apt,150.4,7,268,4.99,69,3
+641,Listing 641,Slotervaart,Slotervaart area,Shared room,25,3,60,4.76,94,3
+642,Listing 642,Centrum,Centrum area,Private room,113.27,2,211,4.16,210,5
+643,Listing 643,Jordaan,Jordaan area,Private room,90.01,2,136,4.39,310,4
+644,Listing 644,Centrum,Centrum area,Entire home/apt,187.95,14,244,4.57,68,6
+645,Listing 645,Jordaan,Jordaan area,Private room,69.14,1,98,4.11,115,1
+646,Listing 646,Noord,Noord area,Hotel room,76.58,2,113,4.64,343,2
+647,Listing 647,Jordaan,Jordaan area,Shared room,88.02,3,250,4.8,352,4
+648,Listing 648,Westerpark,Westerpark area,Entire home/apt,101.38,7,21,4.58,311,7
+649,Listing 649,Slotervaart,Slotervaart area,Shared room,25,1,19,4.18,266,1
+650,Listing 650,Oud-West,Oud-West area,Entire home/apt,114.17,7,202,4.27,20,1
+651,Listing 651,Oud-West,Oud-West area,Entire home/apt,111.33,1,146,4.13,236,1
+652,Listing 652,Bos en Lommer,Bos en Lommer area,Shared room,37.19,14,237,3.64,330,2
+653,Listing 653,Jordaan,Jordaan area,Private room,108.54,7,69,3.99,201,1
+654,Listing 654,Jordaan,Jordaan area,Entire home/apt,148.25,1,103,3.88,232,3
+655,Listing 655,De Pijp,De Pijp area,Entire home/apt,122.3,7,43,4.59,268,3
+656,Listing 656,Westerpark,Westerpark area,Private room,25.21,3,22,4.35,87,3
+657,Listing 657,Jordaan,Jordaan area,Private room,93.64,2,214,4.6,157,8
+658,Listing 658,Noord,Noord area,Private room,75.96,2,60,3.51,67,5
+659,Listing 659,Centrum,Centrum area,Entire home/apt,195.4,14,2,3.86,311,8
+660,Listing 660,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,80.25,1,40,3.87,307,5
+661,Listing 661,Slotervaart,Slotervaart area,Private room,48.32,1,94,4.48,75,1
+662,Listing 662,Jordaan,Jordaan area,Private room,67.66,1,152,3.57,169,7
+663,Listing 663,Jordaan,Jordaan area,Entire home/apt,153.7,3,90,4.9,233,2
+664,Listing 664,Noord,Noord area,Entire home/apt,123.73,7,194,4.76,34,2
+665,Listing 665,Noord,Noord area,Entire home/apt,123.53,7,168,4.29,269,4
+666,Listing 666,Slotervaart,Slotervaart area,Entire home/apt,112.48,14,270,4.59,44,5
+667,Listing 667,Westerpark,Westerpark area,Private room,42.59,14,181,4.28,66,8
+668,Listing 668,Watergraafsmeer,Watergraafsmeer area,Private room,72.32,2,119,4.97,362,1
+669,Listing 669,De Pijp,De Pijp area,Entire home/apt,122.94,7,106,4.12,315,6
+670,Listing 670,Oost,Oost area,Private room,47.89,2,108,4.54,5,5
+671,Listing 671,De Pijp,De Pijp area,Entire home/apt,112.32,3,3,4.01,58,1
+672,Listing 672,Jordaan,Jordaan area,Entire home/apt,159.26,14,173,4.87,344,1
+673,Listing 673,Jordaan,Jordaan area,Entire home/apt,130.57,14,274,4.68,171,7
+674,Listing 674,Centrum,Centrum area,Private room,59.75,3,153,4.33,289,1
+675,Listing 675,Oud-West,Oud-West area,Private room,40.62,1,181,3.92,33,1
+676,Listing 676,Oost,Oost area,Hotel room,126.79,7,273,3.78,84,2
+677,Listing 677,Noord,Noord area,Private room,45.5,14,211,4.82,44,6
+678,Listing 678,Watergraafsmeer,Watergraafsmeer area,Private room,54.66,2,154,3.76,110,6
+679,Listing 679,Centrum,Centrum area,Private room,108.53,1,12,3.79,247,8
+680,Listing 680,Bos en Lommer,Bos en Lommer area,Entire home/apt,78.78,1,167,4.73,73,3
+681,Listing 681,Oud-West,Oud-West area,Private room,31.89,1,267,3.97,59,1
+682,Listing 682,Slotervaart,Slotervaart area,Private room,50.49,1,170,3.65,239,5
+683,Listing 683,Centrum,Centrum area,Private room,73.94,2,164,3.93,102,6
+684,Listing 684,Watergraafsmeer,Watergraafsmeer area,Private room,89.03,1,139,3.91,76,1
+685,Listing 685,Slotervaart,Slotervaart area,Private room,62.51,1,163,4.91,138,5
+686,Listing 686,Slotervaart,Slotervaart area,Entire home/apt,100.0,3,36,4.31,159,1
+687,Listing 687,Jordaan,Jordaan area,Entire home/apt,165.28,1,196,4.14,27,3
+688,Listing 688,Slotervaart,Slotervaart area,Private room,38.83,3,228,3.97,315,4
+689,Listing 689,Bos en Lommer,Bos en Lommer area,Entire home/apt,120.08,14,67,3.65,47,5
+690,Listing 690,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,84.14,2,114,4.87,73,7
+691,Listing 691,Jordaan,Jordaan area,Private room,62.08,14,166,3.55,232,8
+692,Listing 692,De Pijp,De Pijp area,Entire home/apt,99.62,2,236,4.65,87,3
+693,Listing 693,Bos en Lommer,Bos en Lommer area,Entire home/apt,104.7,1,166,4.69,284,8
+694,Listing 694,Westerpark,Westerpark area,Private room,25,2,122,4.32,317,8
+695,Listing 695,Westerpark,Westerpark area,Entire home/apt,112.98,3,220,4.32,222,4
+696,Listing 696,Jordaan,Jordaan area,Private room,109.73,14,39,3.67,364,8
+697,Listing 697,Oost,Oost area,Private room,60.44,1,207,4.53,35,7
+698,Listing 698,Oost,Oost area,Entire home/apt,98.8,2,31,4.73,46,1
+699,Listing 699,Jordaan,Jordaan area,Private room,64.12,2,228,4.52,100,6
+700,Listing 700,Noord,Noord area,Private room,52.33,3,155,4.99,222,1
+701,Listing 701,Slotervaart,Slotervaart area,Hotel room,59.39,3,150,4.85,31,1
+702,Listing 702,Centrum,Centrum area,Private room,95.92,2,183,4.8,56,4
+703,Listing 703,Westerpark,Westerpark area,Private room,38.72,7,195,4.15,207,4
+704,Listing 704,Jordaan,Jordaan area,Entire home/apt,170.79,7,96,4.76,284,6
+705,Listing 705,Westerpark,Westerpark area,Entire home/apt,134.78,1,68,4.47,5,3
+706,Listing 706,Watergraafsmeer,Watergraafsmeer area,Private room,49.52,1,69,4.46,43,7
+707,Listing 707,Watergraafsmeer,Watergraafsmeer area,Private room,34.47,7,92,4.33,232,8
+708,Listing 708,Westerpark,Westerpark area,Entire home/apt,61.53,1,95,4.37,217,4
+709,Listing 709,Bos en Lommer,Bos en Lommer area,Entire home/apt,113.47,14,17,4.56,19,2
+710,Listing 710,Slotervaart,Slotervaart area,Entire home/apt,73.33,2,40,4.2,72,2
+711,Listing 711,Bos en Lommer,Bos en Lommer area,Private room,64.22,2,39,4.42,350,6
+712,Listing 712,Bos en Lommer,Bos en Lommer area,Private room,56.93,14,240,4.36,232,6
+713,Listing 713,Westerpark,Westerpark area,Entire home/apt,121.55,2,85,4.59,18,5
+714,Listing 714,Centrum,Centrum area,Private room,87.67,1,86,4.48,293,5
+715,Listing 715,Slotervaart,Slotervaart area,Entire home/apt,74.63,2,39,3.7,142,5
+716,Listing 716,Noord,Noord area,Private room,48.5,1,7,4.87,57,3
+717,Listing 717,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,115.78,1,120,4.7,248,1
+718,Listing 718,Oost,Oost area,Hotel room,119.17,1,74,4.76,304,7
+719,Listing 719,Westerpark,Westerpark area,Entire home/apt,78.49,3,107,3.58,295,5
+720,Listing 720,De Pijp,De Pijp area,Entire home/apt,140.46,14,237,3.95,204,4
+721,Listing 721,Westerpark,Westerpark area,Private room,40.47,1,271,3.93,222,8
+722,Listing 722,Westerpark,Westerpark area,Private room,62.45,1,271,3.65,349,6
+723,Listing 723,Westerpark,Westerpark area,Private room,43.29,1,138,3.88,136,7
+724,Listing 724,Watergraafsmeer,Watergraafsmeer area,Private room,36.97,2,123,4.28,344,3
+725,Listing 725,Oost,Oost area,Entire home/apt,92.4,1,6,4.29,210,8
+726,Listing 726,Oost,Oost area,Entire home/apt,76.6,2,145,3.55,128,2
+727,Listing 727,Centrum,Centrum area,Shared room,32.96,1,62,3.63,362,3
+728,Listing 728,Westerpark,Westerpark area,Private room,25,1,94,3.88,56,8
+729,Listing 729,De Pijp,De Pijp area,Private room,79.23,3,218,3.89,354,2
+730,Listing 730,Noord,Noord area,Private room,39.99,3,195,4.99,198,5
+731,Listing 731,Noord,Noord area,Entire home/apt,145.52,7,102,3.77,312,8
+732,Listing 732,De Pijp,De Pijp area,Entire home/apt,153.54,1,220,4.87,111,5
+733,Listing 733,De Pijp,De Pijp area,Entire home/apt,159.15,14,228,3.72,9,1
+734,Listing 734,Centrum,Centrum area,Private room,103.81,3,136,4.86,77,1
+735,Listing 735,Bos en Lommer,Bos en Lommer area,Private room,48.0,2,206,3.5,35,8
+736,Listing 736,De Pijp,De Pijp area,Private room,42.39,2,183,4.1,170,2
+737,Listing 737,Oost,Oost area,Entire home/apt,117.95,2,235,3.76,148,1
+738,Listing 738,Westerpark,Westerpark area,Private room,50.51,7,153,4.84,356,6
+739,Listing 739,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,78.1,2,71,3.54,18,4
+740,Listing 740,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,75.84,2,276,4.25,329,8
+741,Listing 741,Centrum,Centrum area,Entire home/apt,213.05,1,21,3.82,207,8
+742,Listing 742,Bos en Lommer,Bos en Lommer area,Entire home/apt,102.15,1,119,4.6,36,8
+743,Listing 743,Centrum,Centrum area,Entire home/apt,185.33,1,66,4.45,7,5
+744,Listing 744,De Pijp,De Pijp area,Entire home/apt,126.98,1,87,4.73,302,2
+745,Listing 745,De Pijp,De Pijp area,Entire home/apt,134.29,3,103,4.72,218,7
+746,Listing 746,Oost,Oost area,Entire home/apt,96.55,3,279,4.75,70,4
+747,Listing 747,Centrum,Centrum area,Private room,84.81,1,72,4.54,212,3
+748,Listing 748,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,108.72,1,20,4.69,68,7
+749,Listing 749,Jordaan,Jordaan area,Entire home/apt,157.75,2,91,4.12,45,8
+750,Listing 750,Jordaan,Jordaan area,Entire home/apt,160.18,14,138,4.12,267,3
+751,Listing 751,Slotervaart,Slotervaart area,Private room,25,2,45,4.02,321,1
+752,Listing 752,Bos en Lommer,Bos en Lommer area,Entire home/apt,71.92,1,60,4.43,271,4
+753,Listing 753,Watergraafsmeer,Watergraafsmeer area,Private room,41.32,1,99,4.53,57,8
+754,Listing 754,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,86.45,3,22,3.93,27,7
+755,Listing 755,Noord,Noord area,Entire home/apt,106.45,1,22,4.89,53,3
+756,Listing 756,Jordaan,Jordaan area,Private room,48.29,1,248,3.61,263,4
+757,Listing 757,Watergraafsmeer,Watergraafsmeer area,Private room,43.88,1,166,3.99,117,2
+758,Listing 758,Oud-West,Oud-West area,Private room,74.33,2,102,3.61,192,8
+759,Listing 759,Centrum,Centrum area,Private room,118.12,7,232,4.06,91,8
+760,Listing 760,Oud-West,Oud-West area,Private room,98.73,3,138,3.69,103,1
+761,Listing 761,Noord,Noord area,Entire home/apt,108.21,2,87,4.83,175,3
+762,Listing 762,Slotervaart,Slotervaart area,Shared room,25,7,117,4.79,44,8
+763,Listing 763,Oud-West,Oud-West area,Private room,70.91,2,219,3.99,126,4
+764,Listing 764,Slotervaart,Slotervaart area,Shared room,25,1,2,3.56,213,8
+765,Listing 765,Bos en Lommer,Bos en Lommer area,Entire home/apt,67.59,14,50,3.86,231,1
+766,Listing 766,Westerpark,Westerpark area,Shared room,27.06,2,67,3.86,183,2
+767,Listing 767,Centrum,Centrum area,Entire home/apt,169.47,14,12,4.66,232,7
+768,Listing 768,Jordaan,Jordaan area,Private room,109.35,14,189,4.56,320,1
+769,Listing 769,De Pijp,De Pijp area,Entire home/apt,121.05,2,151,4.55,218,4
+770,Listing 770,De Pijp,De Pijp area,Private room,42.08,3,171,4.83,28,2
+771,Listing 771,Westerpark,Westerpark area,Entire home/apt,91.02,1,89,4.34,331,4
+772,Listing 772,Jordaan,Jordaan area,Hotel room,115.02,1,122,4.47,276,4
+773,Listing 773,Oud-West,Oud-West area,Entire home/apt,143.97,1,216,3.6,141,6
+774,Listing 774,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,85.84,14,269,4.56,62,5
+775,Listing 775,Watergraafsmeer,Watergraafsmeer area,Private room,64.87,14,33,3.63,96,7
+776,Listing 776,Jordaan,Jordaan area,Entire home/apt,114.13,1,39,3.91,55,3
+777,Listing 777,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,113.98,7,11,4.95,150,3
+778,Listing 778,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,147.28,1,227,3.94,330,2
+779,Listing 779,Centrum,Centrum area,Private room,95.38,3,171,4.48,210,6
+780,Listing 780,Watergraafsmeer,Watergraafsmeer area,Private room,98.25,14,271,4.19,280,3
+781,Listing 781,Noord,Noord area,Entire home/apt,93.55,1,147,4.03,24,8
+782,Listing 782,Jordaan,Jordaan area,Private room,102.97,2,82,3.77,364,3
+783,Listing 783,Jordaan,Jordaan area,Entire home/apt,207.3,2,64,4.05,225,4
+784,Listing 784,Bos en Lommer,Bos en Lommer area,Private room,87.73,1,162,4.06,176,3
+785,Listing 785,Bos en Lommer,Bos en Lommer area,Entire home/apt,107.87,14,255,4.89,74,3
+786,Listing 786,Centrum,Centrum area,Hotel room,134.24,3,279,4.47,259,5
+787,Listing 787,Watergraafsmeer,Watergraafsmeer area,Private room,82.89,14,75,4.01,289,2
+788,Listing 788,Watergraafsmeer,Watergraafsmeer area,Shared room,25,1,71,3.96,347,7
+789,Listing 789,Slotervaart,Slotervaart area,Private room,34.19,2,28,4.38,311,4
+790,Listing 790,Noord,Noord area,Entire home/apt,97.93,14,42,4.52,275,2
+791,Listing 791,Bos en Lommer,Bos en Lommer area,Entire home/apt,62.86,3,261,4.1,28,7
+792,Listing 792,Oost,Oost area,Entire home/apt,111.63,3,6,4.03,145,8
+793,Listing 793,Bos en Lommer,Bos en Lommer area,Entire home/apt,86.99,2,212,3.75,226,7
+794,Listing 794,Westerpark,Westerpark area,Entire home/apt,83.53,2,44,3.95,73,6
+795,Listing 795,De Pijp,De Pijp area,Shared room,25,2,3,4.12,209,8
+796,Listing 796,Slotervaart,Slotervaart area,Private room,32.03,1,70,4.75,102,5
+797,Listing 797,Bos en Lommer,Bos en Lommer area,Entire home/apt,97.49,14,155,3.84,252,1
+798,Listing 798,Jordaan,Jordaan area,Entire home/apt,144.78,2,241,4.13,63,8
+799,Listing 799,Oud-West,Oud-West area,Entire home/apt,127.15,3,34,4.37,306,7
+800,Listing 800,Noord,Noord area,Private room,25,1,243,4.06,355,1
+801,Listing 801,Noord,Noord area,Entire home/apt,111.38,1,69,3.58,182,6
+802,Listing 802,Westerpark,Westerpark area,Private room,58.81,2,182,3.94,24,2
+803,Listing 803,Bos en Lommer,Bos en Lommer area,Entire home/apt,66.41,3,85,4.81,278,5
+804,Listing 804,Noord,Noord area,Private room,25,3,185,4.73,49,1
+805,Listing 805,Jordaan,Jordaan area,Entire home/apt,143.91,1,174,3.83,83,4
+806,Listing 806,Oud-West,Oud-West area,Private room,78.99,1,269,4.13,272,2
+807,Listing 807,De Pijp,De Pijp area,Private room,85.26,3,159,3.71,353,8
+808,Listing 808,Slotervaart,Slotervaart area,Entire home/apt,74.42,2,175,3.54,88,2
+809,Listing 809,Oud-West,Oud-West area,Entire home/apt,114.52,2,157,3.7,64,2
+810,Listing 810,Westerpark,Westerpark area,Private room,25,1,57,4.66,39,7
+811,Listing 811,Centrum,Centrum area,Entire home/apt,208.75,1,30,4.86,240,1
+812,Listing 812,De Pijp,De Pijp area,Entire home/apt,136.01,1,5,4.88,49,4
+813,Listing 813,Slotervaart,Slotervaart area,Shared room,32.92,2,46,4.92,74,6
+814,Listing 814,Oost,Oost area,Entire home/apt,127.07,2,256,4.26,313,2
+815,Listing 815,De Pijp,De Pijp area,Private room,67.04,1,98,4.85,144,1
+816,Listing 816,De Pijp,De Pijp area,Shared room,25,14,258,4.05,362,3
+817,Listing 817,Watergraafsmeer,Watergraafsmeer area,Private room,79.64,2,194,4.27,217,7
+818,Listing 818,De Pijp,De Pijp area,Private room,88.7,14,160,3.67,63,3
+819,Listing 819,Watergraafsmeer,Watergraafsmeer area,Private room,42.84,3,20,4.24,42,7
+820,Listing 820,Noord,Noord area,Entire home/apt,70.5,14,159,3.84,351,7
+821,Listing 821,Noord,Noord area,Hotel room,40.54,3,243,3.77,347,8
+822,Listing 822,De Pijp,De Pijp area,Entire home/apt,147.24,1,267,3.68,337,7
+823,Listing 823,Westerpark,Westerpark area,Private room,85.07,3,86,4.96,33,6
+824,Listing 824,Oud-West,Oud-West area,Private room,57.88,2,206,4.76,62,8
+825,Listing 825,Noord,Noord area,Private room,50.19,14,204,4.5,182,7
+826,Listing 826,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,73.29,1,75,3.68,232,8
+827,Listing 827,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,104.59,14,27,4.52,34,3
+828,Listing 828,Westerpark,Westerpark area,Private room,50.76,2,167,4.43,78,2
+829,Listing 829,De Pijp,De Pijp area,Private room,41.9,2,238,4.49,103,8
+830,Listing 830,Bos en Lommer,Bos en Lommer area,Entire home/apt,87.09,1,175,4.93,276,1
+831,Listing 831,Westerpark,Westerpark area,Private room,68.53,14,192,3.55,226,3
+832,Listing 832,Bos en Lommer,Bos en Lommer area,Private room,59.89,1,155,4.24,361,3
+833,Listing 833,Noord,Noord area,Private room,37.9,14,251,4.21,337,3
+834,Listing 834,Bos en Lommer,Bos en Lommer area,Entire home/apt,90.76,7,134,4.43,253,6
+835,Listing 835,Noord,Noord area,Entire home/apt,100.98,1,187,4.65,178,6
+836,Listing 836,Westerpark,Westerpark area,Entire home/apt,106.07,7,176,4.03,182,4
+837,Listing 837,Oud-West,Oud-West area,Entire home/apt,121.79,1,33,4.01,156,1
+838,Listing 838,Bos en Lommer,Bos en Lommer area,Entire home/apt,97.79,7,235,4.35,336,7
+839,Listing 839,Noord,Noord area,Entire home/apt,90.84,7,162,3.98,193,2
+840,Listing 840,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,100.8,14,105,4.25,172,6
+841,Listing 841,Jordaan,Jordaan area,Private room,66.01,1,254,4.76,325,4
+842,Listing 842,Noord,Noord area,Entire home/apt,111.2,7,152,4.71,293,2
+843,Listing 843,Slotervaart,Slotervaart area,Entire home/apt,81.13,7,271,3.81,243,2
+844,Listing 844,Noord,Noord area,Entire home/apt,101.38,3,153,3.8,221,7
+845,Listing 845,Noord,Noord area,Private room,25,1,92,4.37,9,4
+846,Listing 846,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,109.84,7,272,4.9,314,1
+847,Listing 847,Bos en Lommer,Bos en Lommer area,Entire home/apt,75.58,7,153,3.98,222,2
+848,Listing 848,Oud-West,Oud-West area,Private room,65.96,1,136,3.88,146,4
+849,Listing 849,Westerpark,Westerpark area,Entire home/apt,107.79,14,158,4.34,237,7
+850,Listing 850,Westerpark,Westerpark area,Private room,56.33,1,18,3.91,103,1
+851,Listing 851,Noord,Noord area,Private room,43.11,1,21,3.58,248,2
+852,Listing 852,Oost,Oost area,Private room,79.92,3,32,4.51,208,2
+853,Listing 853,Westerpark,Westerpark area,Shared room,29.73,1,57,4.28,292,5
+854,Listing 854,Watergraafsmeer,Watergraafsmeer area,Private room,39.14,1,121,4.66,307,6
+855,Listing 855,Oost,Oost area,Private room,52.1,2,120,3.72,216,3
+856,Listing 856,Oud-West,Oud-West area,Hotel room,63.9,2,225,4.79,209,1
+857,Listing 857,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,96.95,14,279,4.52,216,5
+858,Listing 858,Jordaan,Jordaan area,Entire home/apt,150.69,1,188,4.47,157,1
+859,Listing 859,Centrum,Centrum area,Private room,93.57,3,196,4.85,158,2
+860,Listing 860,Bos en Lommer,Bos en Lommer area,Private room,30.63,1,226,4.86,198,7
+861,Listing 861,Noord,Noord area,Entire home/apt,125.97,1,152,4.87,107,6
+862,Listing 862,Westerpark,Westerpark area,Private room,39.4,14,140,4.21,41,7
+863,Listing 863,Oost,Oost area,Private room,81.49,2,82,4.26,357,6
+864,Listing 864,Westerpark,Westerpark area,Private room,26.59,14,280,4.54,167,1
+865,Listing 865,Jordaan,Jordaan area,Private room,82.76,2,205,3.97,102,2
+866,Listing 866,De Pijp,De Pijp area,Entire home/apt,119.54,1,264,4.77,365,7
+867,Listing 867,Oost,Oost area,Entire home/apt,117.5,3,88,4.7,351,4
+868,Listing 868,De Pijp,De Pijp area,Entire home/apt,122.36,7,93,4.92,201,4
+869,Listing 869,Centrum,Centrum area,Shared room,79.56,14,117,3.8,45,3
+870,Listing 870,Centrum,Centrum area,Entire home/apt,166.59,2,219,3.72,307,6
+871,Listing 871,Jordaan,Jordaan area,Shared room,71.58,14,222,3.68,232,4
+872,Listing 872,Oud-West,Oud-West area,Shared room,58.91,14,136,4.07,147,7
+873,Listing 873,Oud-West,Oud-West area,Private room,78.81,1,96,4.11,214,3
+874,Listing 874,Centrum,Centrum area,Entire home/apt,179.51,14,134,4.86,120,6
+875,Listing 875,Slotervaart,Slotervaart area,Private room,39.72,7,68,4.53,165,7
+876,Listing 876,Westerpark,Westerpark area,Private room,53.25,1,131,4.34,37,1
+877,Listing 877,Oost,Oost area,Shared room,25,2,23,4.26,2,7
+878,Listing 878,Noord,Noord area,Hotel room,79.4,1,189,4.37,67,5
+879,Listing 879,Jordaan,Jordaan area,Entire home/apt,197.15,3,67,4.57,45,7
+880,Listing 880,Jordaan,Jordaan area,Entire home/apt,142.61,1,160,4.25,22,5
+881,Listing 881,Oost,Oost area,Shared room,25,3,135,4.15,264,3
+882,Listing 882,Oost,Oost area,Private room,95.07,14,251,3.58,77,3
+883,Listing 883,Centrum,Centrum area,Entire home/apt,195.14,1,239,4.99,223,8
+884,Listing 884,Centrum,Centrum area,Entire home/apt,183.47,14,248,3.67,234,3
+885,Listing 885,De Pijp,De Pijp area,Entire home/apt,134.69,2,86,4.34,260,4
+886,Listing 886,Slotervaart,Slotervaart area,Hotel room,83.67,1,2,4.12,269,2
+887,Listing 887,Oud-West,Oud-West area,Private room,43.97,1,13,4.09,145,2
+888,Listing 888,Oost,Oost area,Entire home/apt,72.53,14,41,4.18,235,5
+889,Listing 889,Slotervaart,Slotervaart area,Private room,39.63,1,231,3.82,166,1
+890,Listing 890,Noord,Noord area,Entire home/apt,100.26,7,28,3.64,36,5
+891,Listing 891,Jordaan,Jordaan area,Entire home/apt,162.64,1,10,4.08,106,7
+892,Listing 892,Noord,Noord area,Private room,27.49,2,78,4.24,61,7
+893,Listing 893,Noord,Noord area,Shared room,25,2,49,4.23,188,7
+894,Listing 894,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,88.58,7,216,4.72,46,3
+895,Listing 895,Westerpark,Westerpark area,Private room,72.52,2,237,4.47,346,3
+896,Listing 896,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,113.23,2,268,4.2,42,2
+897,Listing 897,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,130.22,7,153,3.94,127,1
+898,Listing 898,Bos en Lommer,Bos en Lommer area,Entire home/apt,86.99,1,23,4.27,262,7
+899,Listing 899,De Pijp,De Pijp area,Entire home/apt,123.21,1,181,4.65,130,1
+900,Listing 900,De Pijp,De Pijp area,Private room,29.02,1,236,4.76,91,1
+901,Listing 901,De Pijp,De Pijp area,Entire home/apt,125.09,14,232,4.44,343,5
+902,Listing 902,Oost,Oost area,Hotel room,71.35,1,95,3.62,108,5
+903,Listing 903,De Pijp,De Pijp area,Entire home/apt,149.92,14,6,4.19,87,7
+904,Listing 904,Slotervaart,Slotervaart area,Private room,44.75,3,155,4.54,316,7
+905,Listing 905,Noord,Noord area,Entire home/apt,103.6,2,8,4.79,356,4
+906,Listing 906,Watergraafsmeer,Watergraafsmeer area,Private room,59.77,2,123,3.63,223,8
+907,Listing 907,Jordaan,Jordaan area,Entire home/apt,171.94,14,78,4.95,359,8
+908,Listing 908,Centrum,Centrum area,Private room,91.65,2,124,4.35,103,7
+909,Listing 909,Centrum,Centrum area,Entire home/apt,211.0,14,221,4.61,212,5
+910,Listing 910,Centrum,Centrum area,Entire home/apt,203.33,14,248,3.85,262,1
+911,Listing 911,Bos en Lommer,Bos en Lommer area,Entire home/apt,67.48,7,137,4.83,331,2
+912,Listing 912,Watergraafsmeer,Watergraafsmeer area,Private room,38.27,7,177,3.53,229,5
+913,Listing 913,Oud-West,Oud-West area,Entire home/apt,102.97,14,173,3.7,308,5
+914,Listing 914,Westerpark,Westerpark area,Hotel room,93.03,1,184,4.43,241,5
+915,Listing 915,De Pijp,De Pijp area,Private room,74.19,7,251,4.91,51,8
+916,Listing 916,Noord,Noord area,Entire home/apt,104.67,3,24,4.82,9,6
+917,Listing 917,Jordaan,Jordaan area,Entire home/apt,175.02,7,32,3.67,172,4
+918,Listing 918,De Pijp,De Pijp area,Private room,46.71,3,249,4.68,132,1
+919,Listing 919,Bos en Lommer,Bos en Lommer area,Entire home/apt,107.81,1,263,4.56,309,8
+920,Listing 920,Watergraafsmeer,Watergraafsmeer area,Hotel room,104.9,1,56,4.74,54,1
+921,Listing 921,Bos en Lommer,Bos en Lommer area,Entire home/apt,62.29,2,185,4.56,80,8
+922,Listing 922,De Pijp,De Pijp area,Entire home/apt,100.51,1,186,3.68,171,4
+923,Listing 923,Watergraafsmeer,Watergraafsmeer area,Hotel room,80.28,2,242,4.26,174,2
+924,Listing 924,Noord,Noord area,Entire home/apt,92.72,2,212,3.73,184,7
+925,Listing 925,Oud-West,Oud-West area,Entire home/apt,84.67,3,234,4.92,264,8
+926,Listing 926,Jordaan,Jordaan area,Private room,99.35,1,264,4.01,35,7
+927,Listing 927,Jordaan,Jordaan area,Entire home/apt,155.69,1,77,4.97,294,5
+928,Listing 928,Westerpark,Westerpark area,Entire home/apt,108.42,3,155,3.51,160,5
+929,Listing 929,Bos en Lommer,Bos en Lommer area,Private room,57.28,14,105,4.55,278,7
+930,Listing 930,Oud-West,Oud-West area,Private room,78.72,3,43,4.08,18,3
+931,Listing 931,Bos en Lommer,Bos en Lommer area,Hotel room,70.13,3,159,4.64,266,3
+932,Listing 932,Centrum,Centrum area,Entire home/apt,188.63,2,276,3.86,303,5
+933,Listing 933,Westerpark,Westerpark area,Hotel room,89.41,3,190,3.69,132,2
+934,Listing 934,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,104.5,3,2,4.97,232,4
+935,Listing 935,Oost,Oost area,Entire home/apt,91.68,7,71,4.28,365,4
+936,Listing 936,De Pijp,De Pijp area,Entire home/apt,98.15,14,98,3.65,184,7
+937,Listing 937,Westerpark,Westerpark area,Entire home/apt,143.74,14,243,3.62,109,7
+938,Listing 938,Slotervaart,Slotervaart area,Private room,58.46,14,202,4.45,135,8
+939,Listing 939,Watergraafsmeer,Watergraafsmeer area,Private room,39.66,14,258,4.57,65,3
+940,Listing 940,Bos en Lommer,Bos en Lommer area,Private room,50.95,2,60,4.18,355,1
+941,Listing 941,Jordaan,Jordaan area,Shared room,25,1,209,4.05,56,5
+942,Listing 942,Centrum,Centrum area,Entire home/apt,216.05,2,60,4.99,190,5
+943,Listing 943,Noord,Noord area,Entire home/apt,97.84,2,215,4.83,24,4
+944,Listing 944,Jordaan,Jordaan area,Private room,69.29,1,250,4.32,1,2
+945,Listing 945,Centrum,Centrum area,Entire home/apt,156.84,14,172,4.75,193,3
+946,Listing 946,Jordaan,Jordaan area,Entire home/apt,148.55,14,235,3.72,230,6
+947,Listing 947,De Pijp,De Pijp area,Private room,54.49,3,119,4.31,202,8
+948,Listing 948,Noord,Noord area,Private room,29.86,1,84,4.36,362,5
+949,Listing 949,Bos en Lommer,Bos en Lommer area,Private room,39.78,1,277,4.94,295,4
+950,Listing 950,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,93.37,1,9,4.94,61,5
+951,Listing 951,Oud-West,Oud-West area,Entire home/apt,113.49,3,227,4.1,43,1
+952,Listing 952,Watergraafsmeer,Watergraafsmeer area,Private room,25,7,11,3.77,174,1
+953,Listing 953,Bos en Lommer,Bos en Lommer area,Entire home/apt,89.56,1,50,3.93,277,3
+954,Listing 954,Noord,Noord area,Private room,57.36,7,78,4.52,157,1
+955,Listing 955,Slotervaart,Slotervaart area,Hotel room,81.2,1,152,3.98,199,7
+956,Listing 956,Oost,Oost area,Entire home/apt,138.73,2,61,3.86,26,4
+957,Listing 957,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,51.17,3,137,4.2,31,7
+958,Listing 958,De Pijp,De Pijp area,Entire home/apt,128.64,2,208,4.87,324,1
+959,Listing 959,Noord,Noord area,Private room,39.57,7,64,4.17,155,4
+960,Listing 960,Jordaan,Jordaan area,Entire home/apt,155.23,7,86,4.94,125,8
+961,Listing 961,Centrum,Centrum area,Entire home/apt,143.31,1,148,3.5,334,8
+962,Listing 962,Noord,Noord area,Private room,55.78,2,194,4.38,179,5
+963,Listing 963,Centrum,Centrum area,Entire home/apt,172.56,1,45,4.75,202,5
+964,Listing 964,Westerpark,Westerpark area,Entire home/apt,103.38,3,258,4.45,162,8
+965,Listing 965,Noord,Noord area,Entire home/apt,113.18,3,235,3.52,306,3
+966,Listing 966,Centrum,Centrum area,Private room,88.05,1,2,4.12,4,8
+967,Listing 967,Westerpark,Westerpark area,Entire home/apt,111.72,1,39,4.84,275,8
+968,Listing 968,De Pijp,De Pijp area,Entire home/apt,101.85,3,192,4.08,307,1
+969,Listing 969,De Pijp,De Pijp area,Entire home/apt,149.97,2,113,4.52,10,6
+970,Listing 970,Oud-West,Oud-West area,Entire home/apt,116.54,2,155,4.97,113,6
+971,Listing 971,Centrum,Centrum area,Entire home/apt,205.86,2,107,4.98,3,7
+972,Listing 972,De Pijp,De Pijp area,Private room,47.31,1,256,4.33,252,3
+973,Listing 973,De Pijp,De Pijp area,Private room,64.74,2,116,3.79,267,1
+974,Listing 974,Bos en Lommer,Bos en Lommer area,Private room,34.56,7,232,4.46,1,1
+975,Listing 975,Oost,Oost area,Entire home/apt,126.0,14,265,4.04,238,1
+976,Listing 976,Oud-West,Oud-West area,Entire home/apt,124.51,14,215,3.97,272,7
+977,Listing 977,Oud-West,Oud-West area,Entire home/apt,151.49,7,115,4.94,353,4
+978,Listing 978,Oud-West,Oud-West area,Entire home/apt,100.16,1,159,3.54,32,7
+979,Listing 979,Centrum,Centrum area,Private room,77.35,1,128,4.21,126,6
+980,Listing 980,Centrum,Centrum area,Private room,77.14,1,266,4.66,121,8
+981,Listing 981,De Pijp,De Pijp area,Private room,57.56,7,31,3.97,17,2
+982,Listing 982,Jordaan,Jordaan area,Entire home/apt,155.98,2,226,4.42,28,7
+983,Listing 983,De Pijp,De Pijp area,Entire home/apt,136.15,1,195,4.43,205,7
+984,Listing 984,Oud-West,Oud-West area,Private room,64.75,7,5,4.2,232,7
+985,Listing 985,Slotervaart,Slotervaart area,Private room,25,3,13,4.38,232,2
+986,Listing 986,De Pijp,De Pijp area,Entire home/apt,169.84,2,34,4.86,303,3
+987,Listing 987,Bos en Lommer,Bos en Lommer area,Entire home/apt,61.76,2,227,3.71,95,1
+988,Listing 988,Centrum,Centrum area,Entire home/apt,195.3,3,223,3.97,262,3
+989,Listing 989,Jordaan,Jordaan area,Entire home/apt,146.79,1,4,3.59,265,1
+990,Listing 990,Westerpark,Westerpark area,Entire home/apt,94.97,2,102,4.68,327,6
+991,Listing 991,Oud-West,Oud-West area,Private room,43.23,3,169,4.42,296,7
+992,Listing 992,Oost,Oost area,Entire home/apt,56.71,14,232,3.83,21,1
+993,Listing 993,Oud-West,Oud-West area,Private room,48.96,7,246,3.81,169,3
+994,Listing 994,Centrum,Centrum area,Entire home/apt,182.89,1,37,4.33,183,3
+995,Listing 995,Noord,Noord area,Entire home/apt,65.04,1,184,3.8,22,5
+996,Listing 996,Jordaan,Jordaan area,Entire home/apt,127.55,3,134,4.77,89,4
+997,Listing 997,Jordaan,Jordaan area,Entire home/apt,166.98,1,51,4.07,10,2
+998,Listing 998,Oost,Oost area,Shared room,46.93,2,156,4.05,233,6
+999,Listing 999,Jordaan,Jordaan area,Shared room,116.98,1,222,3.68,364,3
+1000,Listing 1000,Oud-West,Oud-West area,Entire home/apt,115.01,3,193,3.98,355,7
+1001,Listing 1001,Oud-West,Oud-West area,Shared room,39.68,1,274,3.99,150,1
+1002,Listing 1002,Noord,Noord area,Private room,25,14,260,3.81,299,2
+1003,Listing 1003,Watergraafsmeer,Watergraafsmeer area,Private room,40.91,3,198,4.25,330,8
+1004,Listing 1004,Jordaan,Jordaan area,Entire home/apt,152.0,14,191,4.57,269,8
+1005,Listing 1005,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,63.37,2,18,4.84,106,8
+1006,Listing 1006,Oud-West,Oud-West area,Entire home/apt,151.28,7,156,4.36,217,6
+1007,Listing 1007,Noord,Noord area,Private room,53.07,3,227,3.85,265,1
+1008,Listing 1008,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,106.26,14,172,4.2,218,7
+1009,Listing 1009,Oost,Oost area,Private room,46.97,2,91,3.9,226,2
+1010,Listing 1010,Oost,Oost area,Shared room,50.92,1,150,4.68,256,4
+1011,Listing 1011,De Pijp,De Pijp area,Entire home/apt,113.95,3,170,3.88,100,5
+1012,Listing 1012,Oud-West,Oud-West area,Private room,81.84,2,70,3.51,278,5
+1013,Listing 1013,Noord,Noord area,Private room,51.7,1,207,4.21,296,3
+1014,Listing 1014,Westerpark,Westerpark area,Entire home/apt,85.1,2,107,4.27,242,8
+1015,Listing 1015,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,133.18,7,219,3.81,357,8
+1016,Listing 1016,Bos en Lommer,Bos en Lommer area,Entire home/apt,109.87,1,71,3.96,295,1
+1017,Listing 1017,Watergraafsmeer,Watergraafsmeer area,Private room,59.21,7,214,4.64,217,5
+1018,Listing 1018,Oost,Oost area,Private room,39.27,1,16,4.97,71,6
+1019,Listing 1019,Slotervaart,Slotervaart area,Private room,25,2,200,4.92,195,2
+1020,Listing 1020,Bos en Lommer,Bos en Lommer area,Entire home/apt,73.5,3,243,4.35,55,8
+1021,Listing 1021,Noord,Noord area,Entire home/apt,115.12,14,16,3.54,352,4
+1022,Listing 1022,De Pijp,De Pijp area,Shared room,54.47,2,197,3.85,145,2
+1023,Listing 1023,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,87.8,1,210,4.98,200,3
+1024,Listing 1024,Bos en Lommer,Bos en Lommer area,Entire home/apt,88.57,2,35,3.69,199,4
+1025,Listing 1025,Noord,Noord area,Entire home/apt,89.31,2,158,4.25,300,8
+1026,Listing 1026,Noord,Noord area,Entire home/apt,73.03,1,73,4.74,228,4
+1027,Listing 1027,Bos en Lommer,Bos en Lommer area,Entire home/apt,68.92,1,236,4.61,294,5
+1028,Listing 1028,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,90.21,1,152,4.12,200,3
+1029,Listing 1029,Slotervaart,Slotervaart area,Private room,25,1,93,4.09,357,1
+1030,Listing 1030,Oud-West,Oud-West area,Private room,74.02,2,80,4.5,140,2
+1031,Listing 1031,Oud-West,Oud-West area,Shared room,25,1,62,4.63,188,6
+1032,Listing 1032,Westerpark,Westerpark area,Entire home/apt,122.92,1,129,4.19,106,2
+1033,Listing 1033,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,99.0,1,203,3.88,19,3
+1034,Listing 1034,Oost,Oost area,Private room,25,14,237,3.6,248,4
+1035,Listing 1035,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,116.44,1,87,3.77,9,2
+1036,Listing 1036,Bos en Lommer,Bos en Lommer area,Private room,25,1,86,4.52,39,3
+1037,Listing 1037,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,101.1,14,272,4.55,110,2
+1038,Listing 1038,Westerpark,Westerpark area,Private room,57.68,1,227,3.57,26,7
+1039,Listing 1039,Oud-West,Oud-West area,Shared room,27.08,7,46,3.54,8,1
+1040,Listing 1040,Oost,Oost area,Private room,65.46,1,32,4.7,112,3
+1041,Listing 1041,Jordaan,Jordaan area,Entire home/apt,123.34,2,165,4.44,287,7
+1042,Listing 1042,Westerpark,Westerpark area,Entire home/apt,102.11,3,109,3.99,54,1
+1043,Listing 1043,Westerpark,Westerpark area,Private room,66.3,2,112,4.47,33,6
+1044,Listing 1044,Centrum,Centrum area,Entire home/apt,181.04,2,111,4.65,210,8
+1045,Listing 1045,De Pijp,De Pijp area,Private room,76.59,1,87,4.4,128,7
+1046,Listing 1046,Jordaan,Jordaan area,Entire home/apt,116.31,14,162,3.6,341,1
+1047,Listing 1047,Slotervaart,Slotervaart area,Shared room,25,1,119,3.85,257,2
+1048,Listing 1048,Noord,Noord area,Entire home/apt,102.55,1,219,3.59,124,6
+1049,Listing 1049,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,107.83,14,19,4.61,121,6
+1050,Listing 1050,Jordaan,Jordaan area,Entire home/apt,171.02,7,20,4.47,266,5
+1051,Listing 1051,Centrum,Centrum area,Entire home/apt,178.03,1,105,4.86,276,4
+1052,Listing 1052,Oud-West,Oud-West area,Private room,44.28,3,195,3.78,266,1
+1053,Listing 1053,De Pijp,De Pijp area,Private room,76.83,1,72,3.64,104,4
+1054,Listing 1054,Oud-West,Oud-West area,Entire home/apt,130.57,2,218,3.75,239,4
+1055,Listing 1055,Oud-West,Oud-West area,Entire home/apt,111.63,2,229,3.91,325,8
+1056,Listing 1056,De Pijp,De Pijp area,Hotel room,93.51,7,184,3.75,203,8
+1057,Listing 1057,Westerpark,Westerpark area,Entire home/apt,101.8,7,246,4.14,10,2
+1058,Listing 1058,Noord,Noord area,Private room,25,1,78,3.89,283,8
+1059,Listing 1059,Noord,Noord area,Entire home/apt,75.68,1,36,4.57,170,4
+1060,Listing 1060,Jordaan,Jordaan area,Shared room,67.28,3,2,4.24,6,7
+1061,Listing 1061,Westerpark,Westerpark area,Hotel room,67.79,1,36,4.99,209,2
+1062,Listing 1062,Westerpark,Westerpark area,Shared room,48.09,7,83,4.94,99,6
+1063,Listing 1063,Bos en Lommer,Bos en Lommer area,Private room,32.32,7,29,4.89,333,4
+1064,Listing 1064,Oud-West,Oud-West area,Entire home/apt,110.63,1,185,4.55,323,3
+1065,Listing 1065,Noord,Noord area,Private room,58.11,1,126,3.52,308,2
+1066,Listing 1066,Westerpark,Westerpark area,Entire home/apt,101.13,2,41,4.81,265,3
+1067,Listing 1067,Westerpark,Westerpark area,Entire home/apt,88.11,2,195,4.6,300,2
+1068,Listing 1068,De Pijp,De Pijp area,Private room,114.6,2,176,4.62,73,7
+1069,Listing 1069,Noord,Noord area,Entire home/apt,106.41,7,49,4.29,35,5
+1070,Listing 1070,Westerpark,Westerpark area,Entire home/apt,125.28,1,191,3.8,95,3
+1071,Listing 1071,Bos en Lommer,Bos en Lommer area,Shared room,25,1,95,4.62,102,4
+1072,Listing 1072,Noord,Noord area,Hotel room,87.2,1,209,4.8,225,3
+1073,Listing 1073,De Pijp,De Pijp area,Entire home/apt,118.42,2,175,4.22,15,2
+1074,Listing 1074,Centrum,Centrum area,Entire home/apt,191.19,1,3,3.65,340,1
+1075,Listing 1075,Westerpark,Westerpark area,Private room,86.24,3,248,4.41,242,6
+1076,Listing 1076,Oost,Oost area,Private room,52.22,2,175,4.91,161,7
+1077,Listing 1077,Westerpark,Westerpark area,Private room,92.65,14,51,4.81,1,7
+1078,Listing 1078,Jordaan,Jordaan area,Entire home/apt,153.72,2,62,4.93,271,4
+1079,Listing 1079,Oost,Oost area,Entire home/apt,94.24,2,263,3.5,211,6
+1080,Listing 1080,Centrum,Centrum area,Private room,52.81,14,23,3.85,166,8
+1081,Listing 1081,Westerpark,Westerpark area,Private room,57.55,1,243,4.6,337,5
+1082,Listing 1082,Slotervaart,Slotervaart area,Entire home/apt,67.19,1,73,3.69,266,2
+1083,Listing 1083,Noord,Noord area,Private room,106.54,14,239,4.93,86,8
+1084,Listing 1084,Bos en Lommer,Bos en Lommer area,Entire home/apt,88.63,1,108,3.66,87,1
+1085,Listing 1085,Jordaan,Jordaan area,Shared room,38.9,2,143,4.5,112,2
+1086,Listing 1086,Jordaan,Jordaan area,Shared room,65.44,3,251,4.81,46,2
+1087,Listing 1087,Oost,Oost area,Entire home/apt,103.37,7,195,4.71,334,4
+1088,Listing 1088,Noord,Noord area,Entire home/apt,63.04,1,44,4.01,57,4
+1089,Listing 1089,De Pijp,De Pijp area,Private room,77.08,1,194,3.97,295,4
+1090,Listing 1090,Westerpark,Westerpark area,Hotel room,96.45,1,163,4.28,186,4
+1091,Listing 1091,De Pijp,De Pijp area,Entire home/apt,108.42,2,74,4.25,151,8
+1092,Listing 1092,Jordaan,Jordaan area,Private room,74.7,1,74,4.4,340,5
+1093,Listing 1093,Bos en Lommer,Bos en Lommer area,Hotel room,120.46,2,244,4.24,323,7
+1094,Listing 1094,Centrum,Centrum area,Hotel room,191.53,2,170,4.77,78,4
+1095,Listing 1095,Centrum,Centrum area,Shared room,60.42,1,200,4.99,153,7
+1096,Listing 1096,Oost,Oost area,Entire home/apt,71.1,7,242,4.09,178,5
+1097,Listing 1097,Noord,Noord area,Private room,60.82,1,201,3.99,49,1
+1098,Listing 1098,Noord,Noord area,Entire home/apt,132.07,1,83,4.16,295,8
+1099,Listing 1099,Noord,Noord area,Private room,56.54,1,100,4.04,333,2
+1100,Listing 1100,Jordaan,Jordaan area,Entire home/apt,194.98,1,218,4.89,347,2
+1101,Listing 1101,Oost,Oost area,Hotel room,90.81,3,263,4.39,332,3
+1102,Listing 1102,Westerpark,Westerpark area,Entire home/apt,110.94,7,60,4.23,123,3
+1103,Listing 1103,Westerpark,Westerpark area,Private room,82.27,7,45,3.91,237,8
+1104,Listing 1104,Oost,Oost area,Entire home/apt,108.35,1,59,4.23,42,4
+1105,Listing 1105,Centrum,Centrum area,Private room,112.78,1,48,4.08,303,7
+1106,Listing 1106,Noord,Noord area,Private room,45.69,1,50,4.57,166,3
+1107,Listing 1107,Westerpark,Westerpark area,Private room,77.79,14,274,3.6,271,2
+1108,Listing 1108,Oud-West,Oud-West area,Hotel room,103.15,1,60,3.51,92,8
+1109,Listing 1109,Oost,Oost area,Entire home/apt,119.38,2,82,4.78,44,1
+1110,Listing 1110,De Pijp,De Pijp area,Hotel room,113.84,3,259,4.95,152,3
+1111,Listing 1111,Westerpark,Westerpark area,Hotel room,75.76,2,23,4.49,265,8
+1112,Listing 1112,Jordaan,Jordaan area,Private room,67.33,3,160,4.41,267,4
+1113,Listing 1113,De Pijp,De Pijp area,Private room,70.26,2,72,4.94,153,4
+1114,Listing 1114,Slotervaart,Slotervaart area,Entire home/apt,86.52,7,65,3.61,318,5
+1115,Listing 1115,Noord,Noord area,Entire home/apt,111.63,7,42,4.91,130,3
+1116,Listing 1116,Bos en Lommer,Bos en Lommer area,Entire home/apt,78.5,2,137,4.57,324,3
+1117,Listing 1117,Westerpark,Westerpark area,Private room,38.24,2,194,3.62,13,2
+1118,Listing 1118,Bos en Lommer,Bos en Lommer area,Entire home/apt,122.2,1,280,3.99,208,2
+1119,Listing 1119,Oost,Oost area,Shared room,34.97,1,115,3.65,140,4
+1120,Listing 1120,Westerpark,Westerpark area,Hotel room,72.92,2,63,4.38,89,8
+1121,Listing 1121,De Pijp,De Pijp area,Entire home/apt,117.73,1,138,4.84,311,3
+1122,Listing 1122,Oost,Oost area,Shared room,25,3,199,4.71,92,7
+1123,Listing 1123,Watergraafsmeer,Watergraafsmeer area,Private room,48.27,1,79,3.71,336,5
+1124,Listing 1124,Centrum,Centrum area,Shared room,84.42,2,189,4.52,362,7
+1125,Listing 1125,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,135.66,2,257,4.93,146,4
+1126,Listing 1126,Noord,Noord area,Private room,44.41,7,44,4.66,156,2
+1127,Listing 1127,De Pijp,De Pijp area,Entire home/apt,130.55,2,29,4.33,43,8
+1128,Listing 1128,Centrum,Centrum area,Hotel room,152.85,1,217,4.22,346,2
+1129,Listing 1129,Westerpark,Westerpark area,Entire home/apt,118.85,7,3,4.55,365,6
+1130,Listing 1130,Oud-West,Oud-West area,Hotel room,135.1,1,270,4.41,350,3
+1131,Listing 1131,Bos en Lommer,Bos en Lommer area,Shared room,35.7,3,68,4.93,263,7
+1132,Listing 1132,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,117.03,3,191,4.87,57,4
+1133,Listing 1133,Bos en Lommer,Bos en Lommer area,Private room,55.38,2,247,3.82,150,7
+1134,Listing 1134,Oud-West,Oud-West area,Shared room,25,14,263,4.84,18,8
+1135,Listing 1135,Centrum,Centrum area,Entire home/apt,166.65,1,181,4.02,54,3
+1136,Listing 1136,Westerpark,Westerpark area,Entire home/apt,93.15,14,51,3.8,220,3
+1137,Listing 1137,Westerpark,Westerpark area,Entire home/apt,93.4,14,128,4.09,115,5
+1138,Listing 1138,Oost,Oost area,Entire home/apt,110.92,2,93,3.66,274,8
+1139,Listing 1139,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,87.06,2,183,3.67,363,5
+1140,Listing 1140,Centrum,Centrum area,Entire home/apt,196.96,1,215,3.74,169,4
+1141,Listing 1141,Watergraafsmeer,Watergraafsmeer area,Hotel room,90.0,14,250,4.7,281,3
+1142,Listing 1142,Oost,Oost area,Private room,53.92,7,204,3.7,256,2
+1143,Listing 1143,Centrum,Centrum area,Entire home/apt,178.15,3,121,4.14,26,1
+1144,Listing 1144,Westerpark,Westerpark area,Entire home/apt,107.75,1,144,4.64,248,4
+1145,Listing 1145,Slotervaart,Slotervaart area,Entire home/apt,69.89,2,58,4.5,134,7
+1146,Listing 1146,Oud-West,Oud-West area,Entire home/apt,123.93,1,52,3.78,358,3
+1147,Listing 1147,Oud-West,Oud-West area,Entire home/apt,111.98,7,98,3.53,74,4
+1148,Listing 1148,De Pijp,De Pijp area,Private room,74.3,2,194,4.55,208,4
+1149,Listing 1149,Oud-West,Oud-West area,Entire home/apt,101.32,1,26,3.9,155,5
+1150,Listing 1150,Oost,Oost area,Private room,58.11,1,126,3.77,163,1
+1151,Listing 1151,Centrum,Centrum area,Private room,82.87,1,143,4.15,310,5
+1152,Listing 1152,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,114.76,1,155,4.5,57,3
+1153,Listing 1153,Oost,Oost area,Entire home/apt,122.14,3,270,3.86,309,5
+1154,Listing 1154,Oud-West,Oud-West area,Private room,31.85,1,44,4.44,54,2
+1155,Listing 1155,Centrum,Centrum area,Private room,114.83,14,97,4.89,98,2
+1156,Listing 1156,Bos en Lommer,Bos en Lommer area,Private room,29.72,2,154,4.3,242,3
+1157,Listing 1157,Centrum,Centrum area,Entire home/apt,152.53,14,177,4.44,187,2
+1158,Listing 1158,Westerpark,Westerpark area,Entire home/apt,120.5,1,214,3.75,268,5
+1159,Listing 1159,Jordaan,Jordaan area,Entire home/apt,166.81,14,97,4.53,203,2
+1160,Listing 1160,Jordaan,Jordaan area,Entire home/apt,158.06,7,260,4.1,196,5
+1161,Listing 1161,Oud-West,Oud-West area,Entire home/apt,132.51,14,4,4.26,262,5
+1162,Listing 1162,Noord,Noord area,Private room,59.34,2,151,4.33,362,3
+1163,Listing 1163,Oud-West,Oud-West area,Entire home/apt,125.42,1,75,3.91,142,1
+1164,Listing 1164,Oud-West,Oud-West area,Hotel room,105.63,1,107,3.5,273,6
+1165,Listing 1165,Slotervaart,Slotervaart area,Hotel room,46.15,7,135,4.85,68,5
+1166,Listing 1166,Oost,Oost area,Hotel room,131.17,2,5,4.6,182,5
+1167,Listing 1167,Jordaan,Jordaan area,Entire home/apt,189.13,7,54,4.92,352,5
+1168,Listing 1168,Slotervaart,Slotervaart area,Private room,45.37,3,226,3.9,112,7
+1169,Listing 1169,Jordaan,Jordaan area,Entire home/apt,157.3,1,75,4.24,245,8
+1170,Listing 1170,Jordaan,Jordaan area,Private room,58.84,14,90,4.92,96,3
+1171,Listing 1171,Noord,Noord area,Entire home/apt,101.51,2,201,3.6,351,2
+1172,Listing 1172,Westerpark,Westerpark area,Entire home/apt,115.69,1,206,4.59,51,1
+1173,Listing 1173,Slotervaart,Slotervaart area,Entire home/apt,77.8,1,6,3.7,329,2
+1174,Listing 1174,Noord,Noord area,Entire home/apt,101.43,1,6,4.31,4,6
+1175,Listing 1175,De Pijp,De Pijp area,Entire home/apt,104.47,2,227,4.0,83,3
+1176,Listing 1176,Oud-West,Oud-West area,Entire home/apt,128.16,1,136,3.53,321,1
+1177,Listing 1177,De Pijp,De Pijp area,Entire home/apt,163.35,1,212,4.87,72,1
+1178,Listing 1178,Oud-West,Oud-West area,Entire home/apt,150.06,2,75,3.84,180,7
+1179,Listing 1179,De Pijp,De Pijp area,Entire home/apt,144.24,1,144,4.42,182,2
+1180,Listing 1180,Oost,Oost area,Shared room,32.17,1,43,3.77,22,6
+1181,Listing 1181,Slotervaart,Slotervaart area,Entire home/apt,47.29,2,154,4.02,319,2
+1182,Listing 1182,Noord,Noord area,Shared room,47.64,1,188,4.68,135,3
+1183,Listing 1183,Jordaan,Jordaan area,Entire home/apt,135.29,1,244,4.37,34,5
+1184,Listing 1184,Jordaan,Jordaan area,Entire home/apt,180.29,7,65,4.03,93,8
+1185,Listing 1185,Westerpark,Westerpark area,Entire home/apt,131.75,2,170,4.07,70,8
+1186,Listing 1186,Bos en Lommer,Bos en Lommer area,Entire home/apt,85.39,2,272,4.08,274,7
+1187,Listing 1187,Bos en Lommer,Bos en Lommer area,Private room,33.45,3,44,3.5,120,1
+1188,Listing 1188,Oost,Oost area,Private room,25,1,68,4.87,56,6
+1189,Listing 1189,Jordaan,Jordaan area,Entire home/apt,184.18,2,215,4.74,124,1
+1190,Listing 1190,Jordaan,Jordaan area,Entire home/apt,190.83,1,73,4.54,193,7
+1191,Listing 1191,Oost,Oost area,Entire home/apt,130.76,1,244,3.55,304,6
+1192,Listing 1192,Jordaan,Jordaan area,Entire home/apt,176.31,7,39,3.72,6,3
+1193,Listing 1193,Watergraafsmeer,Watergraafsmeer area,Private room,49.63,7,153,4.58,240,8
+1194,Listing 1194,Centrum,Centrum area,Entire home/apt,149.03,1,79,4.41,30,3
+1195,Listing 1195,Bos en Lommer,Bos en Lommer area,Entire home/apt,73.3,2,232,4.88,283,5
+1196,Listing 1196,Oud-West,Oud-West area,Entire home/apt,137.72,1,80,4.28,139,3
+1197,Listing 1197,Oud-West,Oud-West area,Entire home/apt,143.74,14,39,4.22,354,7
+1198,Listing 1198,Westerpark,Westerpark area,Entire home/apt,111.88,7,190,3.79,331,2
+1199,Listing 1199,De Pijp,De Pijp area,Entire home/apt,99.13,2,14,3.74,122,2
+1200,Listing 1200,De Pijp,De Pijp area,Entire home/apt,106.61,2,5,4.33,158,1
+1201,Listing 1201,Oud-West,Oud-West area,Entire home/apt,150.52,1,247,3.97,23,5
+1202,Listing 1202,Centrum,Centrum area,Hotel room,140.23,2,144,3.97,203,7
+1203,Listing 1203,Oost,Oost area,Hotel room,85.35,1,208,4.25,257,3
+1204,Listing 1204,Centrum,Centrum area,Private room,81.34,1,195,3.94,244,3
+1205,Listing 1205,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,65.26,1,118,4.65,110,3
+1206,Listing 1206,Bos en Lommer,Bos en Lommer area,Entire home/apt,54.84,14,267,4.68,174,6
+1207,Listing 1207,Noord,Noord area,Entire home/apt,108.12,2,198,5.0,122,2
+1208,Listing 1208,Jordaan,Jordaan area,Private room,63.3,1,254,3.71,49,5
+1209,Listing 1209,Bos en Lommer,Bos en Lommer area,Private room,57.46,14,255,3.97,48,5
+1210,Listing 1210,Jordaan,Jordaan area,Entire home/apt,119.39,1,186,3.61,180,8
+1211,Listing 1211,Noord,Noord area,Hotel room,109.64,1,226,4.91,332,8
+1212,Listing 1212,Centrum,Centrum area,Entire home/apt,175.42,7,146,4.79,205,3
+1213,Listing 1213,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,127.67,7,191,4.26,42,5
+1214,Listing 1214,Centrum,Centrum area,Private room,49.2,1,29,3.73,125,2
+1215,Listing 1215,Noord,Noord area,Entire home/apt,59.52,14,114,4.5,198,6
+1216,Listing 1216,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,83.27,1,273,3.63,238,2
+1217,Listing 1217,Westerpark,Westerpark area,Private room,58.07,14,162,3.82,175,8
+1218,Listing 1218,De Pijp,De Pijp area,Entire home/apt,146.96,1,19,4.92,279,3
+1219,Listing 1219,Oud-West,Oud-West area,Entire home/apt,151.59,3,194,4.68,31,8
+1220,Listing 1220,Oud-West,Oud-West area,Entire home/apt,130.3,7,11,3.9,350,3
+1221,Listing 1221,De Pijp,De Pijp area,Entire home/apt,128.76,2,231,4.5,214,5
+1222,Listing 1222,Jordaan,Jordaan area,Private room,88.16,3,47,4.95,219,5
+1223,Listing 1223,Jordaan,Jordaan area,Entire home/apt,181.42,1,274,4.95,352,7
+1224,Listing 1224,Oost,Oost area,Shared room,25,2,199,3.62,5,3
+1225,Listing 1225,Oost,Oost area,Private room,69.51,1,162,4.84,7,3
+1226,Listing 1226,Watergraafsmeer,Watergraafsmeer area,Private room,25,7,58,3.89,345,1
+1227,Listing 1227,Watergraafsmeer,Watergraafsmeer area,Shared room,47.7,2,49,4.62,18,4
+1228,Listing 1228,Westerpark,Westerpark area,Private room,30.33,7,85,3.82,307,4
+1229,Listing 1229,Oud-West,Oud-West area,Hotel room,96.99,2,186,4.84,8,2
+1230,Listing 1230,Watergraafsmeer,Watergraafsmeer area,Private room,48.42,7,233,4.03,211,7
+1231,Listing 1231,Bos en Lommer,Bos en Lommer area,Hotel room,48.54,3,234,3.77,219,3
+1232,Listing 1232,Bos en Lommer,Bos en Lommer area,Entire home/apt,129.2,7,145,4.45,337,2
+1233,Listing 1233,De Pijp,De Pijp area,Private room,88.02,14,210,4.62,53,2
+1234,Listing 1234,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,117.58,2,16,4.78,341,4
+1235,Listing 1235,Oud-West,Oud-West area,Private room,53.15,3,240,4.95,63,8
+1236,Listing 1236,Westerpark,Westerpark area,Shared room,28.36,3,202,4.67,3,5
+1237,Listing 1237,Noord,Noord area,Private room,44.03,2,212,3.51,344,7
+1238,Listing 1238,Centrum,Centrum area,Entire home/apt,218.03,3,78,4.0,191,7
+1239,Listing 1239,Oud-West,Oud-West area,Private room,41.02,7,201,3.69,26,7
+1240,Listing 1240,Jordaan,Jordaan area,Entire home/apt,177.46,1,162,4.16,264,2
+1241,Listing 1241,Jordaan,Jordaan area,Entire home/apt,136.25,1,133,4.92,283,4
+1242,Listing 1242,De Pijp,De Pijp area,Entire home/apt,104.25,1,223,3.54,5,2
+1243,Listing 1243,Slotervaart,Slotervaart area,Entire home/apt,84.49,3,232,3.78,324,4
+1244,Listing 1244,Noord,Noord area,Entire home/apt,84.43,2,125,4.49,193,5
+1245,Listing 1245,De Pijp,De Pijp area,Shared room,25,14,52,4.89,56,2
+1246,Listing 1246,De Pijp,De Pijp area,Entire home/apt,109.52,1,134,3.62,92,6
+1247,Listing 1247,Oud-West,Oud-West area,Entire home/apt,120.79,1,37,3.82,249,7
+1248,Listing 1248,Westerpark,Westerpark area,Private room,52.74,1,230,3.95,82,3
+1249,Listing 1249,Slotervaart,Slotervaart area,Private room,48.61,14,175,4.99,177,1
+1250,Listing 1250,Jordaan,Jordaan area,Entire home/apt,152.1,2,130,4.41,62,1
+1251,Listing 1251,Bos en Lommer,Bos en Lommer area,Entire home/apt,113.13,1,58,3.99,111,4
+1252,Listing 1252,De Pijp,De Pijp area,Private room,97.84,2,64,4.22,137,2
+1253,Listing 1253,Oost,Oost area,Private room,42.03,7,253,4.88,223,5
+1254,Listing 1254,Jordaan,Jordaan area,Entire home/apt,141.69,1,143,4.38,201,5
+1255,Listing 1255,Jordaan,Jordaan area,Private room,102.17,2,228,4.72,216,2
+1256,Listing 1256,Slotervaart,Slotervaart area,Entire home/apt,78.37,3,102,4.06,290,2
+1257,Listing 1257,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,123.4,3,209,4.1,150,2
+1258,Listing 1258,Jordaan,Jordaan area,Private room,85.04,3,219,3.87,95,4
+1259,Listing 1259,Oost,Oost area,Entire home/apt,111.88,1,163,4.58,352,4
+1260,Listing 1260,Watergraafsmeer,Watergraafsmeer area,Private room,39.96,1,164,4.08,119,4
+1261,Listing 1261,Bos en Lommer,Bos en Lommer area,Entire home/apt,60.55,7,38,4.52,293,7
+1262,Listing 1262,Oost,Oost area,Private room,43.14,1,101,4.7,100,8
+1263,Listing 1263,Centrum,Centrum area,Hotel room,134.94,3,87,4.39,307,4
+1264,Listing 1264,Slotervaart,Slotervaart area,Entire home/apt,89.89,1,9,4.87,329,5
+1265,Listing 1265,Jordaan,Jordaan area,Private room,45.15,3,270,4.47,20,2
+1266,Listing 1266,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,124.39,2,212,3.98,154,6
+1267,Listing 1267,Westerpark,Westerpark area,Entire home/apt,108.59,2,24,4.54,201,8
+1268,Listing 1268,Watergraafsmeer,Watergraafsmeer area,Private room,26.94,1,62,3.54,191,1
+1269,Listing 1269,Centrum,Centrum area,Entire home/apt,219.73,1,223,3.63,115,6
+1270,Listing 1270,Bos en Lommer,Bos en Lommer area,Hotel room,70.39,1,26,3.67,132,5
+1271,Listing 1271,De Pijp,De Pijp area,Entire home/apt,116.53,1,194,4.89,138,8
+1272,Listing 1272,De Pijp,De Pijp area,Entire home/apt,97.24,7,75,4.46,299,2
+1273,Listing 1273,Bos en Lommer,Bos en Lommer area,Entire home/apt,64.03,14,143,3.84,164,5
+1274,Listing 1274,Noord,Noord area,Private room,33.67,2,180,4.49,285,4
+1275,Listing 1275,De Pijp,De Pijp area,Entire home/apt,116.18,7,110,3.78,239,2
+1276,Listing 1276,Oost,Oost area,Entire home/apt,110.47,3,270,4.64,263,5
+1277,Listing 1277,Watergraafsmeer,Watergraafsmeer area,Private room,55.45,3,66,4.08,112,8
+1278,Listing 1278,Slotervaart,Slotervaart area,Entire home/apt,77.28,1,204,3.92,96,3
+1279,Listing 1279,Noord,Noord area,Hotel room,67.79,1,236,3.86,54,8
+1280,Listing 1280,Jordaan,Jordaan area,Entire home/apt,155.67,14,243,4.03,338,2
+1281,Listing 1281,Bos en Lommer,Bos en Lommer area,Entire home/apt,79.62,3,257,3.58,220,5
+1282,Listing 1282,Oost,Oost area,Entire home/apt,114.77,2,195,3.94,216,7
+1283,Listing 1283,Jordaan,Jordaan area,Private room,57.07,1,221,4.47,55,2
+1284,Listing 1284,Oud-West,Oud-West area,Entire home/apt,120.69,2,18,3.86,294,2
+1285,Listing 1285,Noord,Noord area,Entire home/apt,71.9,1,200,3.83,201,5
+1286,Listing 1286,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,78.25,2,104,4.56,177,5
+1287,Listing 1287,Centrum,Centrum area,Entire home/apt,148.95,2,244,3.76,156,2
+1288,Listing 1288,Jordaan,Jordaan area,Entire home/apt,159.37,1,233,4.5,72,7
+1289,Listing 1289,Oost,Oost area,Entire home/apt,150.75,1,87,4.39,347,8
+1290,Listing 1290,Slotervaart,Slotervaart area,Entire home/apt,78.38,1,126,3.57,241,1
+1291,Listing 1291,Slotervaart,Slotervaart area,Private room,38.86,1,257,4.66,85,2
+1292,Listing 1292,Noord,Noord area,Private room,61.43,14,171,4.6,231,5
+1293,Listing 1293,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,63.74,3,154,4.84,363,8
+1294,Listing 1294,De Pijp,De Pijp area,Entire home/apt,139.61,1,265,3.72,327,7
+1295,Listing 1295,Oud-West,Oud-West area,Private room,77.28,7,125,4.04,295,2
+1296,Listing 1296,Oud-West,Oud-West area,Shared room,55.74,1,193,4.95,327,8
+1297,Listing 1297,Bos en Lommer,Bos en Lommer area,Entire home/apt,105.66,7,169,4.92,200,5
+1298,Listing 1298,Noord,Noord area,Entire home/apt,85.11,3,266,4.75,359,2
+1299,Listing 1299,Westerpark,Westerpark area,Private room,25,1,177,4.95,147,8
+1300,Listing 1300,Jordaan,Jordaan area,Entire home/apt,145.57,2,76,4.44,267,3
+1301,Listing 1301,Noord,Noord area,Entire home/apt,110.35,2,232,3.92,20,2
+1302,Listing 1302,Centrum,Centrum area,Entire home/apt,186.6,3,2,4.49,220,1
+1303,Listing 1303,Centrum,Centrum area,Entire home/apt,170.39,1,257,4.93,340,5
+1304,Listing 1304,Jordaan,Jordaan area,Hotel room,141.19,1,100,3.94,221,1
+1305,Listing 1305,Watergraafsmeer,Watergraafsmeer area,Shared room,30.24,7,197,4.95,216,2
+1306,Listing 1306,Noord,Noord area,Shared room,58.63,7,159,4.52,88,6
+1307,Listing 1307,Slotervaart,Slotervaart area,Entire home/apt,86.68,2,213,3.95,283,2
+1308,Listing 1308,Noord,Noord area,Private room,32.42,1,236,4.06,279,7
+1309,Listing 1309,De Pijp,De Pijp area,Entire home/apt,113.8,3,183,4.14,239,7
+1310,Listing 1310,Westerpark,Westerpark area,Entire home/apt,111.19,1,13,4.63,215,5
+1311,Listing 1311,Oud-West,Oud-West area,Private room,43.04,7,150,3.69,27,1
+1312,Listing 1312,Watergraafsmeer,Watergraafsmeer area,Private room,69.93,1,265,3.63,235,5
+1313,Listing 1313,De Pijp,De Pijp area,Entire home/apt,143.56,3,246,4.8,353,2
+1314,Listing 1314,Slotervaart,Slotervaart area,Private room,52.02,2,27,4.27,359,8
+1315,Listing 1315,Jordaan,Jordaan area,Entire home/apt,142.39,2,154,4.58,321,1
+1316,Listing 1316,Watergraafsmeer,Watergraafsmeer area,Private room,25,1,102,3.5,58,2
+1317,Listing 1317,Bos en Lommer,Bos en Lommer area,Entire home/apt,96.42,7,258,3.58,227,2
+1318,Listing 1318,Noord,Noord area,Entire home/apt,116.73,2,94,4.73,120,8
+1319,Listing 1319,Slotervaart,Slotervaart area,Entire home/apt,87.54,2,72,3.76,336,4
+1320,Listing 1320,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,103.33,1,148,4.94,341,8
+1321,Listing 1321,Oost,Oost area,Private room,31.02,7,54,4.72,237,3
+1322,Listing 1322,Centrum,Centrum area,Entire home/apt,199.54,7,61,3.52,288,5
+1323,Listing 1323,Centrum,Centrum area,Private room,111.79,1,21,4.2,181,8
+1324,Listing 1324,Noord,Noord area,Entire home/apt,77.71,2,81,4.02,183,7
+1325,Listing 1325,Bos en Lommer,Bos en Lommer area,Entire home/apt,79.62,1,173,3.92,235,5
+1326,Listing 1326,Westerpark,Westerpark area,Entire home/apt,89.53,14,247,4.41,192,3
+1327,Listing 1327,Slotervaart,Slotervaart area,Private room,25,3,132,4.38,66,6
+1328,Listing 1328,Slotervaart,Slotervaart area,Private room,41.21,1,206,3.54,34,3
+1329,Listing 1329,Oud-West,Oud-West area,Entire home/apt,161.65,2,243,4.97,165,4
+1330,Listing 1330,De Pijp,De Pijp area,Private room,93.88,7,89,4.88,196,1
+1331,Listing 1331,Slotervaart,Slotervaart area,Entire home/apt,117.38,1,226,4.89,191,6
+1332,Listing 1332,De Pijp,De Pijp area,Private room,72.76,2,193,3.79,68,8
+1333,Listing 1333,Watergraafsmeer,Watergraafsmeer area,Private room,55.05,2,222,3.63,270,1
+1334,Listing 1334,De Pijp,De Pijp area,Entire home/apt,162.54,3,71,4.66,2,2
+1335,Listing 1335,Oost,Oost area,Entire home/apt,104.48,2,270,4.75,254,8
+1336,Listing 1336,Bos en Lommer,Bos en Lommer area,Entire home/apt,46.36,14,70,4.14,34,7
+1337,Listing 1337,De Pijp,De Pijp area,Private room,81.83,14,51,3.85,60,6
+1338,Listing 1338,Centrum,Centrum area,Entire home/apt,197.3,7,148,4.55,128,2
+1339,Listing 1339,Jordaan,Jordaan area,Hotel room,151.34,2,265,4.1,312,1
+1340,Listing 1340,Bos en Lommer,Bos en Lommer area,Private room,56.85,14,56,4.91,298,5
+1341,Listing 1341,Centrum,Centrum area,Entire home/apt,168.22,2,30,4.32,71,6
+1342,Listing 1342,Centrum,Centrum area,Entire home/apt,186.34,1,37,4.02,288,2
+1343,Listing 1343,Westerpark,Westerpark area,Private room,46.26,2,245,4.58,66,2
+1344,Listing 1344,Centrum,Centrum area,Entire home/apt,174.68,3,115,4.15,332,5
+1345,Listing 1345,Oud-West,Oud-West area,Entire home/apt,157.41,7,100,4.52,273,1
+1346,Listing 1346,Bos en Lommer,Bos en Lommer area,Entire home/apt,101.75,1,198,4.14,193,7
+1347,Listing 1347,Bos en Lommer,Bos en Lommer area,Entire home/apt,50.54,2,188,4.01,180,1
+1348,Listing 1348,Oud-West,Oud-West area,Entire home/apt,141.21,7,5,4.62,116,1
+1349,Listing 1349,Centrum,Centrum area,Private room,90.0,14,29,3.77,64,1
+1350,Listing 1350,Oost,Oost area,Entire home/apt,116.84,1,125,4.41,149,8
+1351,Listing 1351,De Pijp,De Pijp area,Private room,106.88,3,105,4.85,253,4
+1352,Listing 1352,Watergraafsmeer,Watergraafsmeer area,Private room,71.8,2,187,4.8,282,4
+1353,Listing 1353,Bos en Lommer,Bos en Lommer area,Private room,34.53,3,53,4.85,27,8
+1354,Listing 1354,Noord,Noord area,Entire home/apt,117.67,2,70,3.96,266,4
+1355,Listing 1355,De Pijp,De Pijp area,Entire home/apt,134.48,14,120,4.47,357,8
+1356,Listing 1356,De Pijp,De Pijp area,Entire home/apt,119.88,2,17,4.38,138,5
+1357,Listing 1357,De Pijp,De Pijp area,Entire home/apt,142.02,7,9,4.17,195,4
+1358,Listing 1358,Oud-West,Oud-West area,Entire home/apt,109.41,1,220,4.49,272,1
+1359,Listing 1359,Bos en Lommer,Bos en Lommer area,Private room,85.53,2,172,4.64,134,6
+1360,Listing 1360,Slotervaart,Slotervaart area,Entire home/apt,68.13,1,218,4.33,29,5
+1361,Listing 1361,Bos en Lommer,Bos en Lommer area,Entire home/apt,66.73,1,265,4.94,133,8
+1362,Listing 1362,Oud-West,Oud-West area,Entire home/apt,113.58,2,7,3.63,143,4
+1363,Listing 1363,Bos en Lommer,Bos en Lommer area,Entire home/apt,84.94,2,140,4.49,185,1
+1364,Listing 1364,De Pijp,De Pijp area,Entire home/apt,127.58,1,164,4.17,135,1
+1365,Listing 1365,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,118.35,1,111,4.37,209,2
+1366,Listing 1366,Noord,Noord area,Private room,51.84,14,160,3.77,32,5
+1367,Listing 1367,Noord,Noord area,Private room,67.17,1,75,3.85,316,1
+1368,Listing 1368,Jordaan,Jordaan area,Private room,100.23,3,225,3.56,296,4
+1369,Listing 1369,Centrum,Centrum area,Hotel room,198.34,3,8,4.31,347,1
+1370,Listing 1370,Slotervaart,Slotervaart area,Entire home/apt,82.26,14,55,3.67,39,2
+1371,Listing 1371,Oud-West,Oud-West area,Entire home/apt,91.02,7,212,4.81,36,3
+1372,Listing 1372,Centrum,Centrum area,Entire home/apt,163.91,7,184,4.85,171,6
+1373,Listing 1373,Watergraafsmeer,Watergraafsmeer area,Shared room,28.62,2,188,4.9,22,1
+1374,Listing 1374,De Pijp,De Pijp area,Private room,69.84,3,160,4.91,261,7
+1375,Listing 1375,Slotervaart,Slotervaart area,Entire home/apt,82.09,2,40,4.35,39,7
+1376,Listing 1376,Bos en Lommer,Bos en Lommer area,Private room,25.63,14,270,4.49,26,8
+1377,Listing 1377,Oost,Oost area,Entire home/apt,118.57,2,124,4.7,168,6
+1378,Listing 1378,Oud-West,Oud-West area,Entire home/apt,110.72,2,59,4.17,354,7
+1379,Listing 1379,Oost,Oost area,Entire home/apt,102.59,14,185,4.41,334,8
+1380,Listing 1380,Westerpark,Westerpark area,Entire home/apt,102.04,2,64,4.66,275,7
+1381,Listing 1381,Slotervaart,Slotervaart area,Private room,25,1,174,3.62,160,7
+1382,Listing 1382,Bos en Lommer,Bos en Lommer area,Hotel room,50.05,2,253,4.85,323,8
+1383,Listing 1383,Centrum,Centrum area,Entire home/apt,150.29,1,240,4.8,51,7
+1384,Listing 1384,Centrum,Centrum area,Private room,106.67,7,37,4.86,67,6
+1385,Listing 1385,Jordaan,Jordaan area,Entire home/apt,130.44,3,60,4.39,172,2
+1386,Listing 1386,Centrum,Centrum area,Entire home/apt,168.95,7,181,4.45,229,7
+1387,Listing 1387,Noord,Noord area,Private room,37.47,1,260,4.84,42,6
+1388,Listing 1388,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,69.06,2,224,4.92,90,2
+1389,Listing 1389,Oud-West,Oud-West area,Entire home/apt,111.04,7,268,3.93,296,7
+1390,Listing 1390,Oost,Oost area,Private room,76.66,2,73,4.15,21,5
+1391,Listing 1391,Slotervaart,Slotervaart area,Private room,35.23,2,84,3.91,60,8
+1392,Listing 1392,Oud-West,Oud-West area,Private room,79.49,1,147,4.89,132,5
+1393,Listing 1393,Jordaan,Jordaan area,Entire home/apt,137.42,1,86,4.94,14,4
+1394,Listing 1394,Centrum,Centrum area,Entire home/apt,172.32,2,13,3.92,189,7
+1395,Listing 1395,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,108.15,1,56,4.17,361,7
+1396,Listing 1396,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,85.4,1,70,4.95,142,2
+1397,Listing 1397,Oud-West,Oud-West area,Private room,51.42,1,141,4.56,232,6
+1398,Listing 1398,Centrum,Centrum area,Entire home/apt,201.05,2,266,4.76,162,1
+1399,Listing 1399,Centrum,Centrum area,Entire home/apt,145.26,2,112,3.9,344,3
+1400,Listing 1400,Watergraafsmeer,Watergraafsmeer area,Private room,29.06,1,254,3.8,144,2
+1401,Listing 1401,Bos en Lommer,Bos en Lommer area,Private room,44.99,2,34,4.56,251,1
+1402,Listing 1402,Westerpark,Westerpark area,Private room,50.9,2,194,4.46,323,8
+1403,Listing 1403,Bos en Lommer,Bos en Lommer area,Private room,52.19,14,118,4.24,149,7
+1404,Listing 1404,Slotervaart,Slotervaart area,Entire home/apt,100.29,1,246,3.83,151,5
+1405,Listing 1405,Westerpark,Westerpark area,Hotel room,70.55,14,59,4.93,90,2
+1406,Listing 1406,Oost,Oost area,Private room,81.23,14,65,4.4,247,4
+1407,Listing 1407,Centrum,Centrum area,Entire home/apt,138.04,3,209,3.89,31,6
+1408,Listing 1408,Westerpark,Westerpark area,Entire home/apt,103.02,7,226,3.89,217,1
+1409,Listing 1409,Noord,Noord area,Entire home/apt,100.51,14,23,4.11,157,3
+1410,Listing 1410,Bos en Lommer,Bos en Lommer area,Entire home/apt,117.9,3,56,3.69,314,1
+1411,Listing 1411,Centrum,Centrum area,Private room,116.35,1,180,4.48,283,4
+1412,Listing 1412,Oost,Oost area,Entire home/apt,126.78,7,80,4.79,274,4
+1413,Listing 1413,Noord,Noord area,Private room,62.69,2,110,4.91,283,1
+1414,Listing 1414,Centrum,Centrum area,Private room,80.44,7,269,4.69,52,1
+1415,Listing 1415,Jordaan,Jordaan area,Entire home/apt,187.94,2,126,4.62,17,7
+1416,Listing 1416,Westerpark,Westerpark area,Entire home/apt,109.29,1,138,3.61,43,7
+1417,Listing 1417,Centrum,Centrum area,Entire home/apt,193.17,7,77,3.79,48,5
+1418,Listing 1418,Oost,Oost area,Entire home/apt,86.14,2,11,4.19,154,2
+1419,Listing 1419,Noord,Noord area,Hotel room,58.74,2,219,4.95,47,5
+1420,Listing 1420,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,91.04,2,273,4.07,259,8
+1421,Listing 1421,Westerpark,Westerpark area,Hotel room,86.52,1,231,4.1,114,4
+1422,Listing 1422,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,68.43,2,55,4.0,329,2
+1423,Listing 1423,De Pijp,De Pijp area,Private room,77.54,1,127,4.1,42,8
+1424,Listing 1424,Bos en Lommer,Bos en Lommer area,Private room,91.06,14,119,3.88,30,5
+1425,Listing 1425,Oost,Oost area,Private room,84.77,2,208,4.54,2,8
+1426,Listing 1426,Bos en Lommer,Bos en Lommer area,Entire home/apt,96.95,14,120,4.56,164,2
+1427,Listing 1427,De Pijp,De Pijp area,Entire home/apt,139.22,1,6,3.75,82,8
+1428,Listing 1428,De Pijp,De Pijp area,Entire home/apt,134.88,1,217,4.44,253,8
+1429,Listing 1429,Jordaan,Jordaan area,Private room,60.68,7,151,4.99,60,5
+1430,Listing 1430,Bos en Lommer,Bos en Lommer area,Entire home/apt,84.11,1,190,3.71,288,4
+1431,Listing 1431,Slotervaart,Slotervaart area,Hotel room,49.2,2,241,4.9,236,3
+1432,Listing 1432,Jordaan,Jordaan area,Entire home/apt,179.71,3,242,4.12,5,3
+1433,Listing 1433,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,117.11,1,96,4.31,102,6
+1434,Listing 1434,De Pijp,De Pijp area,Entire home/apt,127.51,1,239,3.6,304,4
+1435,Listing 1435,Oost,Oost area,Private room,69.41,2,218,4.05,299,7
+1436,Listing 1436,Noord,Noord area,Private room,40.48,1,103,3.65,39,4
+1437,Listing 1437,Noord,Noord area,Entire home/apt,85.41,7,267,4.0,300,5
+1438,Listing 1438,Slotervaart,Slotervaart area,Private room,38.45,1,242,3.5,107,4
+1439,Listing 1439,Oud-West,Oud-West area,Entire home/apt,128.7,1,84,3.99,243,1
+1440,Listing 1440,Jordaan,Jordaan area,Entire home/apt,149.37,14,225,3.99,217,2
+1441,Listing 1441,Oud-West,Oud-West area,Private room,48.34,2,242,4.76,181,6
+1442,Listing 1442,Bos en Lommer,Bos en Lommer area,Entire home/apt,103.75,2,109,4.57,85,7
+1443,Listing 1443,Bos en Lommer,Bos en Lommer area,Entire home/apt,84.86,7,61,4.48,285,3
+1444,Listing 1444,Centrum,Centrum area,Private room,75.71,3,238,4.59,343,4
+1445,Listing 1445,Slotervaart,Slotervaart area,Private room,89.85,1,195,4.9,191,1
+1446,Listing 1446,Oud-West,Oud-West area,Entire home/apt,124.38,1,269,4.38,99,6
+1447,Listing 1447,De Pijp,De Pijp area,Shared room,59.41,2,6,3.55,310,5
+1448,Listing 1448,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,88.07,1,129,4.96,140,1
+1449,Listing 1449,Watergraafsmeer,Watergraafsmeer area,Hotel room,64.34,1,242,3.56,331,1
+1450,Listing 1450,Slotervaart,Slotervaart area,Private room,25.35,1,78,4.81,361,3
+1451,Listing 1451,De Pijp,De Pijp area,Entire home/apt,133.85,1,31,4.79,160,5
+1452,Listing 1452,Oud-West,Oud-West area,Private room,56.9,3,8,4.85,170,3
+1453,Listing 1453,Slotervaart,Slotervaart area,Private room,40.25,1,206,3.6,213,3
+1454,Listing 1454,Noord,Noord area,Entire home/apt,97.52,2,227,4.41,22,7
+1455,Listing 1455,Jordaan,Jordaan area,Private room,106.04,3,159,3.68,140,8
+1456,Listing 1456,Slotervaart,Slotervaart area,Private room,25,14,44,3.63,289,2
+1457,Listing 1457,Jordaan,Jordaan area,Private room,90.52,1,10,3.83,86,6
+1458,Listing 1458,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,124.59,2,126,4.62,157,3
+1459,Listing 1459,Noord,Noord area,Entire home/apt,91.58,3,71,4.12,289,4
+1460,Listing 1460,Noord,Noord area,Private room,35.45,2,90,4.55,151,5
+1461,Listing 1461,De Pijp,De Pijp area,Entire home/apt,113.69,1,267,3.56,230,7
+1462,Listing 1462,Jordaan,Jordaan area,Entire home/apt,151.21,7,107,4.02,359,5
+1463,Listing 1463,Oud-West,Oud-West area,Entire home/apt,149.84,2,137,3.89,46,8
+1464,Listing 1464,Noord,Noord area,Entire home/apt,90.02,1,59,4.21,264,8
+1465,Listing 1465,Slotervaart,Slotervaart area,Entire home/apt,58.01,1,17,4.44,165,1
+1466,Listing 1466,Jordaan,Jordaan area,Entire home/apt,148.57,1,171,3.78,172,6
+1467,Listing 1467,Noord,Noord area,Entire home/apt,63.03,14,224,4.39,315,7
+1468,Listing 1468,Westerpark,Westerpark area,Entire home/apt,95.32,3,124,4.4,129,8
+1469,Listing 1469,Westerpark,Westerpark area,Entire home/apt,145.29,7,259,4.14,55,5
+1470,Listing 1470,Slotervaart,Slotervaart area,Entire home/apt,77.52,1,14,4.88,83,4
+1471,Listing 1471,Slotervaart,Slotervaart area,Private room,54.83,2,27,4.69,46,3
+1472,Listing 1472,Oost,Oost area,Entire home/apt,123.12,1,84,4.49,235,4
+1473,Listing 1473,Jordaan,Jordaan area,Entire home/apt,172.85,1,104,4.59,223,3
+1474,Listing 1474,Bos en Lommer,Bos en Lommer area,Private room,52.1,14,191,3.74,2,2
+1475,Listing 1475,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,89.13,7,241,4.75,342,4
+1476,Listing 1476,De Pijp,De Pijp area,Entire home/apt,138.54,7,162,4.66,68,5
+1477,Listing 1477,Westerpark,Westerpark area,Private room,34.46,1,13,4.65,113,6
+1478,Listing 1478,Oost,Oost area,Entire home/apt,106.07,7,0,,312,2
+1479,Listing 1479,Oud-West,Oud-West area,Entire home/apt,130.23,3,222,4.08,47,3
+1480,Listing 1480,Westerpark,Westerpark area,Entire home/apt,117.74,14,159,3.55,198,7
+1481,Listing 1481,Jordaan,Jordaan area,Entire home/apt,144.36,3,238,4.53,42,2
+1482,Listing 1482,Westerpark,Westerpark area,Private room,25,3,6,3.69,82,7
+1483,Listing 1483,Watergraafsmeer,Watergraafsmeer area,Entire home/apt,83.07,2,216,4.14,27,2
+1484,Listing 1484,Slotervaart,Slotervaart area,Private room,25,3,230,4.67,257,6
+1485,Listing 1485,Bos en Lommer,Bos en Lommer area,Hotel room,81.59,7,217,4.81,272,2
+1486,Listing 1486,Jordaan,Jordaan area,Entire home/apt,168.1,14,132,4.15,101,8
+1487,Listing 1487,Noord,Noord area,Entire home/apt,109.99,3,25,3.88,306,6
+1488,Listing 1488,Noord,Noord area,Private room,31.11,2,12,3.77,277,6
+1489,Listing 1489,Westerpark,Westerpark area,Entire home/apt,92.15,1,57,4.3,182,7
+1490,Listing 1490,Oud-West,Oud-West area,Entire home/apt,150.36,1,273,4.59,48,8
+1491,Listing 1491,Westerpark,Westerpark area,Private room,40.01,14,124,3.56,268,6
+1492,Listing 1492,Oost,Oost area,Entire home/apt,128.28,1,51,4.01,195,5
+1493,Listing 1493,Westerpark,Westerpark area,Entire home/apt,118.37,1,40,4.69,221,5
+1494,Listing 1494,Noord,Noord area,Private room,77.83,1,276,4.06,124,8
+1495,Listing 1495,Oud-West,Oud-West area,Private room,31.92,1,95,4.41,141,3
+1496,Listing 1496,Noord,Noord area,Entire home/apt,107.79,1,208,4.67,106,3
+1497,Listing 1497,Noord,Noord area,Entire home/apt,50.65,2,162,3.84,49,6
+1498,Listing 1498,Oud-West,Oud-West area,Entire home/apt,93.17,14,147,4.38,364,6
+1499,Listing 1499,Bos en Lommer,Bos en Lommer area,Entire home/apt,92.88,3,174,4.73,163,3
+1500,Listing 1500,Watergraafsmeer,Watergraafsmeer area,Private room,48.64,1,255,4.51,107,5
